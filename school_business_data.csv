@@ -1,0 +1,1201 @@
+Student_Name,Gender,Grade_Level,Section,Payment_Status,Favorite_Subject,Extracurricular,Tuition_Fee,Monthly_Allowance,Current_GPA,Enrollment_Date,Date_of_Birth
+Crystal Colon,Non-binary,Grade 1,B-Emerald,Full Payment,Science,Arts Club,15490.66,526,98.89,2026-03-24,2016-02-20
+Beverly Walters,Non-binary,Grade 6,B-Emerald,Installment,History,Arts Club,17662.45,2580,78.46,2025-06-16,2017-07-03
+Stephanie Rogers,Male,Grade 1,A-Diamond,Full Payment,Science,Glee Club,30004.29,4363,84.93,2025-05-08,2009-05-02
+Michael Barnett,Female,Grade 3,D-Ruby,Scholarship,History,Varsity,34118.53,1559,91.4,2026-05-05,2017-06-28
+Thomas Davidson,Female,Grade 3,A-Diamond,Installment,Computer Science,None,43087.95,3034,79.81,2025-09-27,2014-06-10
+Amy Grimes,Female,Grade 6,A-Diamond,Installment,Literature,None,21631.26,1881,98.86,2025-09-21,2013-04-13
+Linda Smith,Non-binary,Grade 6,A-Diamond,Full Payment,Mathematics,Glee Club,31561.96,2246,80.26,2026-02-09,2007-12-19
+Jeremy James,Female,Grade 7,C-Sapphire,Late Payment,Literature,Glee Club,39411.54,3833,75.25,2025-05-10,2008-03-11
+Charles Shelton,Non-binary,Grade 12,D-Ruby,Scholarship,Literature,Varsity,16059.47,1832,79.67,2026-02-15,2018-03-04
+Bridget Davidson,Male,Grade 11,C-Sapphire,Scholarship,History,Glee Club,27428.31,3385,87.54,2026-03-13,2010-10-07
+Melissa Baker,Non-binary,Grade 9,C-Sapphire,Full Payment,Computer Science,Varsity,27525.28,4589,76.15,2026-01-09,2010-10-02
+Allen Carroll,Female,Grade 7,A-Diamond,Installment,Science,Glee Club,22332.47,1451,77.58,2026-03-23,2016-05-10
+Mrs. Deanna Walker,Non-binary,Grade 11,A-Diamond,Full Payment,Computer Science,Glee Club,15402.81,4067,76.41,2025-11-09,2016-08-04
+Mr. Alexander Solomon,Female,Grade 11,A-Diamond,Full Payment,Science,Student Council,36588.51,957,88.89,2026-01-20,2016-08-14
+Kevin Patel,Male,Grade 1,A-Diamond,Installment,Computer Science,None,18269.31,2318,94.98,2025-09-06,2012-10-21
+Logan Johnson,Non-binary,Grade 11,C-Sapphire,Installment,History,Varsity,43663.11,2771,80.35,2025-12-30,2009-09-18
+Gary Hubbard,Male,Grade 7,A-Diamond,Full Payment,Computer Science,Glee Club,20683.49,827,75.49,2026-05-02,2008-04-14
+Teresa Kemp,Female,Grade 12,A-Diamond,Scholarship,Literature,Student Council,37159.97,3526,85.96,2025-11-19,2011-01-22
+Caleb Bird,Non-binary,Grade 11,B-Emerald,Scholarship,History,Student Council,28783.74,2261,82.89,2026-03-19,2013-12-30
+Samantha White MD,Non-binary,Grade 11,D-Ruby,Scholarship,Computer Science,Varsity,20200.19,1967,88.82,2026-03-27,2008-03-12
+Christian Hicks,Male,Grade 3,C-Sapphire,Installment,Science,Varsity,34666.1,761,92.86,2026-02-05,2012-12-29
+Cynthia Castaneda,Female,Grade 6,A-Diamond,Full Payment,Science,Varsity,26553.36,886,98.77,2025-11-19,2010-02-21
+Derrick French,Female,Grade 1,D-Ruby,Full Payment,Science,Glee Club,39226.84,3607,92.28,2026-02-09,2019-04-30
+Jacqueline Johnson,Female,Grade 6,C-Sapphire,Late Payment,Mathematics,Glee Club,20026.08,4315,77.86,2026-01-31,2011-04-23
+Robin Harris,Female,Grade 1,B-Emerald,Scholarship,Mathematics,Arts Club,38938.96,1354,76.6,2026-03-16,2017-06-27
+Andrea Smith,Female,Grade 3,C-Sapphire,Full Payment,Computer Science,Arts Club,17367.05,4212,76.81,2025-06-16,2009-09-07
+Cindy Fowler,Female,Grade 1,A-Diamond,Installment,History,Glee Club,36120.08,1046,91.2,2025-11-11,2018-09-13
+Raymond James,Male,Grade 12,B-Emerald,Late Payment,Mathematics,Varsity,15266.11,1490,95.63,2025-08-31,2013-01-03
+Paul Carr,Non-binary,Grade 9,C-Sapphire,Scholarship,Computer Science,Varsity,30718.27,2201,83.45,2025-08-16,2010-04-04
+Linda Hooper,Female,Grade 11,A-Diamond,Scholarship,Literature,Arts Club,25743.09,2506,92.17,2026-03-07,2014-12-15
+Rachel Holland,Non-binary,Grade 7,D-Ruby,Late Payment,Computer Science,Arts Club,40584.15,4737,84.68,2025-06-11,2018-04-30
+Daniel Jordan,Male,Grade 1,B-Emerald,Installment,Science,Student Council,39080.53,4937,97.43,2025-05-29,2017-06-09
+Jimmy Phillips,Non-binary,Grade 3,D-Ruby,Installment,Computer Science,Glee Club,25773.39,1194,75.74,2025-08-25,2018-11-11
+Jacob Ramirez,Non-binary,Grade 11,A-Diamond,Installment,History,Arts Club,25226.66,4849,76.76,2025-06-06,2013-08-16
+Sean Bowen,Non-binary,Grade 11,D-Ruby,Late Payment,Computer Science,Glee Club,15888.4,2853,93.25,2025-06-14,2008-08-16
+Kimberly Anderson,Non-binary,Grade 11,A-Diamond,Late Payment,Science,Glee Club,27234.4,2632,88.82,2025-05-08,2011-10-11
+Anthony Jackson,Non-binary,Grade 9,C-Sapphire,Late Payment,History,None,19651.03,1668,93.55,2025-06-20,2016-03-21
+Anthony Ball,Male,Grade 3,A-Diamond,Scholarship,Literature,Student Council,39161.84,953,85.15,2025-07-13,2010-04-11
+Kurt Diaz,Non-binary,Grade 9,A-Diamond,Late Payment,Mathematics,None,23234.78,4566,76.25,2025-07-20,2019-02-19
+Terry Harvey,Male,Grade 11,C-Sapphire,Installment,Literature,Arts Club,35204.9,2825,96.34,2025-12-05,2013-12-26
+Mark Carter,Non-binary,Grade 6,D-Ruby,Full Payment,Literature,Varsity,26559.13,4770,77.06,2025-11-13,2018-12-24
+Destiny Vaughn,Female,Grade 12,B-Emerald,Late Payment,History,Arts Club,15983.72,1355,81.53,2026-04-19,2009-03-01
+Megan Ray,Female,Grade 12,A-Diamond,Full Payment,History,Glee Club,40811.02,724,97.46,2025-09-22,2015-05-16
+Michael Duncan,Female,Grade 1,A-Diamond,Late Payment,Literature,Varsity,36732.13,4808,84.3,2025-09-17,2009-07-11
+Jennifer Davis,Male,Grade 3,B-Emerald,Full Payment,Literature,Student Council,25633.42,2658,81.0,2025-09-20,2020-04-30
+Daniel Tran,Male,Grade 3,A-Diamond,Late Payment,Literature,Glee Club,31745.48,1724,79.84,2026-02-04,2016-07-25
+Sarah Young,Non-binary,Grade 12,B-Emerald,Installment,Science,Student Council,24121.88,2701,97.24,2026-04-06,2012-04-06
+Samantha Arroyo,Female,Grade 11,A-Diamond,Late Payment,Computer Science,Glee Club,38153.59,4594,85.17,2025-06-17,2014-02-28
+Linda Smith,Male,Grade 11,B-Emerald,Full Payment,History,Glee Club,35632.36,3160,78.68,2025-12-13,2018-04-23
+Angel Jones,Male,Grade 6,D-Ruby,Late Payment,Computer Science,Arts Club,27008.91,4868,89.13,2025-10-04,2013-06-26
+Caitlin Weaver,Non-binary,Grade 6,D-Ruby,Scholarship,Computer Science,Varsity,35684.34,4933,89.61,2026-03-05,2007-07-21
+Brett Nelson,Female,Grade 9,D-Ruby,Full Payment,Computer Science,Glee Club,35081.11,1552,83.94,2025-09-07,2010-11-15
+Michael Olsen,Non-binary,Grade 3,B-Emerald,Full Payment,Mathematics,Glee Club,31638.76,2220,88.98,2026-03-04,2008-12-10
+Jason Navarro,Female,Grade 3,A-Diamond,Installment,Computer Science,Varsity,30995.49,3937,82.22,2025-07-10,2012-12-20
+Darren Carter,Non-binary,Grade 12,A-Diamond,Installment,Science,None,41879.16,4315,87.81,2026-01-03,2011-08-31
+Mary Matthews,Non-binary,Grade 3,B-Emerald,Scholarship,Computer Science,Arts Club,38154.67,2319,87.79,2025-12-15,2014-06-23
+Kelly Leonard,Female,Grade 3,C-Sapphire,Scholarship,Mathematics,None,18543.23,4595,81.28,2026-04-14,2014-01-28
+Claudia Turner,Male,Grade 12,C-Sapphire,Scholarship,History,Glee Club,32164.68,2408,83.47,2025-09-11,2013-12-06
+Ronald Smith,Male,Grade 11,B-Emerald,Installment,Science,Glee Club,23285.87,4375,96.13,2025-08-10,2012-04-20
+Christopher Cordova,Non-binary,Grade 3,C-Sapphire,Late Payment,Computer Science,None,41153.33,3377,81.56,2025-09-28,2009-12-13
+Edward Ballard,Non-binary,Grade 7,D-Ruby,Full Payment,History,Arts Club,15081.87,3191,89.09,2025-09-06,2017-08-22
+Melissa Miller,Non-binary,Grade 12,A-Diamond,Installment,Literature,Arts Club,38372.0,3287,94.32,2026-01-02,2018-03-24
+Joshua Jensen,Male,Grade 1,B-Emerald,Scholarship,Mathematics,Glee Club,28262.59,1085,97.76,2025-09-07,2008-09-03
+Caitlin Hobbs,Male,Grade 3,A-Diamond,Late Payment,History,Glee Club,35004.92,2009,76.16,2025-12-01,2008-11-19
+Donald Fritz,Male,Grade 9,B-Emerald,Full Payment,Science,Glee Club,19068.97,2669,88.2,2025-09-20,2020-01-29
+Alexis Taylor,Male,Grade 7,B-Emerald,Full Payment,Literature,Arts Club,19766.31,4255,85.27,2026-01-05,2008-12-04
+Ryan Lee,Non-binary,Grade 3,A-Diamond,Late Payment,Mathematics,Arts Club,32824.33,1322,88.67,2025-06-11,2011-07-04
+Brian Mendez,Male,Grade 12,D-Ruby,Scholarship,Literature,Student Council,39731.19,1050,76.2,2025-09-30,2014-06-12
+Brandy Gonzalez,Non-binary,Grade 3,B-Emerald,Installment,Science,Student Council,27943.81,3393,92.89,2026-03-04,2008-09-25
+Carla Gonzalez,Female,Grade 12,D-Ruby,Scholarship,Mathematics,Student Council,21550.71,3243,94.41,2026-02-09,2008-05-06
+Anna Delacruz,Female,Grade 6,B-Emerald,Full Payment,Computer Science,Glee Club,33930.3,4715,92.89,2025-05-11,2011-06-04
+Jade Johnson,Female,Grade 6,B-Emerald,Scholarship,Science,Glee Club,19957.29,3898,98.49,2026-01-31,2019-12-19
+Jennifer Collins,Non-binary,Grade 7,D-Ruby,Late Payment,Computer Science,Varsity,16371.88,1135,78.19,2026-03-03,2014-08-27
+John Garcia,Male,Grade 9,C-Sapphire,Scholarship,Science,Glee Club,30737.34,4008,80.42,2026-02-16,2011-11-26
+Harold Carter,Male,Grade 6,B-Emerald,Late Payment,Mathematics,Student Council,27991.95,4135,79.62,2025-09-02,2010-07-04
+Kelly Stewart,Non-binary,Grade 12,D-Ruby,Full Payment,Science,Student Council,44095.49,1630,76.55,2025-11-26,2010-09-10
+Bailey Lawrence,Non-binary,Grade 1,B-Emerald,Scholarship,Mathematics,None,42602.1,1439,80.83,2026-02-19,2019-09-29
+Marie Farley,Non-binary,Grade 9,A-Diamond,Installment,Mathematics,None,22893.36,3891,92.67,2025-12-07,2007-05-24
+Brooke Campbell,Male,Grade 11,C-Sapphire,Scholarship,Science,Glee Club,35052.86,749,79.9,2025-09-12,2009-12-26
+Alisha Palmer,Male,Grade 6,A-Diamond,Installment,History,Glee Club,22277.48,2230,91.14,2025-07-10,2008-12-26
+James Dunn,Non-binary,Grade 9,D-Ruby,Scholarship,Literature,Varsity,26488.33,2009,78.59,2025-09-01,2019-04-01
+Lisa Dunlap DVM,Female,Grade 7,B-Emerald,Full Payment,Mathematics,Arts Club,41331.29,503,92.27,2026-03-18,2014-10-18
+Melissa Taylor,Non-binary,Grade 12,D-Ruby,Full Payment,History,Student Council,34837.24,1113,97.61,2025-11-07,2011-10-21
+Jordan Barber,Male,Grade 3,B-Emerald,Full Payment,History,None,24188.93,4020,96.13,2025-05-12,2019-01-31
+Edward Downs DDS,Male,Grade 12,C-Sapphire,Full Payment,History,None,25706.64,1079,92.68,2026-04-06,2018-08-17
+Dean Pham,Non-binary,Grade 11,B-Emerald,Installment,Computer Science,Arts Club,43386.04,4207,96.72,2025-11-21,2008-02-20
+Corey Whitaker,Non-binary,Grade 1,A-Diamond,Installment,Science,None,28999.75,1232,92.17,2025-05-19,2014-07-10
+Tammy Gibson,Non-binary,Grade 7,D-Ruby,Late Payment,Literature,Glee Club,22181.62,2792,77.7,2025-12-02,2015-03-18
+Kristin Mccoy,Non-binary,Grade 12,C-Sapphire,Installment,Mathematics,Arts Club,40807.91,3167,95.51,2025-12-04,2011-02-21
+John Butler,Non-binary,Grade 11,B-Emerald,Late Payment,Literature,Varsity,16032.91,4483,96.48,2026-03-30,2015-09-08
+James Garza,Non-binary,Grade 11,D-Ruby,Full Payment,History,Student Council,29634.75,852,92.05,2025-07-22,2017-07-27
+Chase Hodges,Male,Grade 11,C-Sapphire,Full Payment,Literature,Varsity,33341.84,792,79.61,2025-07-10,2018-05-30
+Casey Vasquez,Male,Grade 7,A-Diamond,Scholarship,Literature,None,25529.05,3756,86.03,2026-05-05,2014-04-09
+Makayla Peterson,Female,Grade 7,C-Sapphire,Late Payment,Computer Science,Student Council,23096.1,4826,78.57,2025-09-11,2016-05-04
+Vanessa Rodriguez,Non-binary,Grade 9,B-Emerald,Scholarship,Mathematics,None,41561.14,681,91.37,2025-06-17,2013-08-22
+Carly Mccullough,Male,Grade 1,C-Sapphire,Installment,History,Student Council,41501.12,2317,93.19,2026-03-25,2011-05-29
+Jessica Mccormick,Male,Grade 1,B-Emerald,Scholarship,Literature,Arts Club,40623.34,4697,95.71,2025-06-10,2015-09-21
+Susan Wise,Male,Grade 12,B-Emerald,Late Payment,Computer Science,None,20348.76,937,80.74,2025-10-03,2016-03-28
+Whitney Foster,Non-binary,Grade 7,D-Ruby,Full Payment,History,Glee Club,44822.36,1967,75.31,2026-02-09,2017-07-25
+James Smith,Female,Grade 9,A-Diamond,Installment,Mathematics,Glee Club,36990.24,3997,90.53,2025-09-09,2013-12-08
+Regina Norris,Non-binary,Grade 9,D-Ruby,Late Payment,Science,Student Council,15693.2,804,95.98,2025-12-06,2019-08-12
+Anthony Munoz,Male,Grade 6,D-Ruby,Installment,Computer Science,Varsity,26162.19,1238,81.25,2026-01-17,2020-03-03
+Michael Bailey,Non-binary,Grade 3,A-Diamond,Scholarship,History,Student Council,36694.35,1831,98.04,2026-03-29,2014-04-01
+Ashley Burke,Female,Grade 1,C-Sapphire,Late Payment,Computer Science,Student Council,27662.63,3284,75.55,2025-08-19,2015-10-02
+Victor Beck,Non-binary,Grade 11,C-Sapphire,Late Payment,Science,Varsity,26309.22,1828,82.57,2025-09-15,2016-07-07
+Carol Wright,Female,Grade 6,C-Sapphire,Installment,Computer Science,Glee Club,35617.54,3738,90.45,2026-04-25,2007-12-17
+Alex Scott,Non-binary,Grade 9,D-Ruby,Late Payment,History,Glee Club,22002.41,4366,79.99,2025-08-15,2008-05-09
+Leonard Watkins,Female,Grade 12,B-Emerald,Installment,Computer Science,Glee Club,32688.44,3435,88.14,2025-07-07,2007-07-27
+Melissa Wright,Male,Grade 12,D-Ruby,Installment,Literature,Student Council,34043.51,523,78.88,2025-08-24,2016-08-12
+William Moore III,Female,Grade 11,D-Ruby,Late Payment,Science,Varsity,28093.81,4818,76.22,2026-03-29,2012-08-22
+Jade Watson,Male,Grade 12,D-Ruby,Scholarship,History,Student Council,17177.69,4410,93.97,2026-01-04,2009-05-06
+Jamie Fuentes,Non-binary,Grade 3,C-Sapphire,Full Payment,Science,None,28756.51,1069,89.57,2025-07-29,2013-05-22
+Nancy Hoffman,Non-binary,Grade 9,C-Sapphire,Full Payment,Mathematics,Glee Club,40362.18,4858,95.5,2025-09-29,2015-04-03
+Amber Middleton,Male,Grade 1,D-Ruby,Installment,History,Student Council,29013.45,2603,84.68,2025-06-13,2017-05-05
+Timothy Snyder,Male,Grade 11,C-Sapphire,Installment,Mathematics,None,35234.15,3207,96.81,2025-10-22,2017-08-08
+Melissa Coleman,Non-binary,Grade 7,B-Emerald,Installment,Computer Science,Varsity,32326.64,3856,80.29,2025-10-28,2008-09-17
+Gina Schroeder,Female,Grade 3,C-Sapphire,Scholarship,Science,Student Council,38697.09,2381,89.2,2025-11-18,2019-01-08
+Charles Prince,Male,Grade 11,A-Diamond,Installment,Literature,Student Council,22651.89,3824,82.58,2025-06-11,2007-08-20
+Yvonne Johnson,Female,Grade 9,D-Ruby,Installment,Literature,Student Council,19017.12,4645,78.1,2025-10-18,2017-07-07
+Scott Smith,Female,Grade 1,A-Diamond,Late Payment,Literature,Student Council,22084.49,4564,75.37,2025-05-11,2012-02-12
+Adam Johnson,Female,Grade 1,A-Diamond,Late Payment,Computer Science,Student Council,25143.35,4885,78.01,2025-09-21,2020-03-19
+Edgar Morgan,Non-binary,Grade 6,C-Sapphire,Late Payment,Mathematics,Glee Club,33567.57,2410,83.73,2025-06-14,2011-12-04
+David Kelly,Non-binary,Grade 11,D-Ruby,Late Payment,Computer Science,None,32044.06,3451,80.8,2025-11-05,2011-11-02
+Allison Mitchell,Non-binary,Grade 1,B-Emerald,Scholarship,Computer Science,Varsity,17315.23,2152,80.23,2026-01-30,2019-10-08
+Nicholas Thomas,Non-binary,Grade 9,A-Diamond,Late Payment,Mathematics,Student Council,27201.87,2555,84.37,2025-06-15,2011-07-06
+Gerald Patterson,Non-binary,Grade 11,C-Sapphire,Installment,Computer Science,Arts Club,27987.97,4965,95.71,2026-03-03,2008-10-31
+Charles Miller DDS,Non-binary,Grade 6,A-Diamond,Full Payment,History,None,24411.71,4090,93.73,2025-09-27,2018-12-11
+Nathaniel Salinas,Female,Grade 7,C-Sapphire,Full Payment,Mathematics,Varsity,19843.76,2349,86.41,2025-12-15,2020-03-04
+Darlene Schultz,Non-binary,Grade 6,B-Emerald,Installment,History,Student Council,35474.25,852,93.25,2026-04-22,2018-09-12
+Jordan Pennington,Non-binary,Grade 3,A-Diamond,Late Payment,Computer Science,Glee Club,37894.27,4142,85.95,2025-12-04,2014-02-20
+Joel Frank,Female,Grade 12,B-Emerald,Scholarship,Literature,Glee Club,15116.32,3382,95.33,2025-08-04,2008-12-07
+Taylor Leach,Male,Grade 7,C-Sapphire,Late Payment,Science,None,19708.14,1367,88.88,2025-11-28,2013-07-10
+Ashley Oconnor,Non-binary,Grade 9,B-Emerald,Full Payment,Science,Glee Club,38792.01,4951,90.22,2025-08-22,2012-10-20
+Charles Phillips,Male,Grade 3,C-Sapphire,Full Payment,Literature,Arts Club,42794.41,995,83.96,2026-04-18,2009-12-02
+Jack May,Non-binary,Grade 3,B-Emerald,Full Payment,Science,None,28863.73,3259,77.04,2025-10-19,2009-10-28
+Manuel Johnson,Non-binary,Grade 7,C-Sapphire,Late Payment,Science,Varsity,15422.38,2647,86.04,2026-04-03,2016-09-11
+Caitlin Hill,Female,Grade 1,D-Ruby,Full Payment,Computer Science,None,34810.01,3166,97.77,2026-04-19,2012-05-04
+Debra Martinez,Non-binary,Grade 3,A-Diamond,Late Payment,Science,Arts Club,20682.68,1604,92.49,2026-04-24,2011-05-24
+Kevin Hunter,Non-binary,Grade 3,B-Emerald,Late Payment,Mathematics,Glee Club,28648.13,4056,88.82,2026-04-25,2010-06-30
+Steven Nelson,Non-binary,Grade 3,A-Diamond,Full Payment,Science,Varsity,39631.51,4194,93.31,2025-08-31,2016-07-18
+Emily Morris,Non-binary,Grade 1,B-Emerald,Scholarship,Mathematics,Student Council,29871.75,3669,80.37,2025-09-19,2008-10-21
+Kyle Sherman,Female,Grade 6,B-Emerald,Late Payment,Science,Varsity,31164.55,735,88.77,2025-06-05,2017-10-06
+Ronald Moore,Non-binary,Grade 7,D-Ruby,Scholarship,History,Student Council,32689.0,553,87.2,2025-05-28,2013-03-20
+Dennis Sanders,Female,Grade 3,A-Diamond,Full Payment,Science,Varsity,41518.0,1930,82.35,2026-01-22,2018-07-15
+Jennifer Cabrera,Male,Grade 7,C-Sapphire,Late Payment,Computer Science,Student Council,25599.21,2824,87.49,2026-02-06,2012-01-09
+William Jones,Female,Grade 1,D-Ruby,Late Payment,Literature,Arts Club,22428.99,2418,91.49,2025-05-16,2013-07-31
+Mary Murphy,Male,Grade 11,A-Diamond,Scholarship,Literature,Glee Club,17948.52,1907,81.75,2025-07-22,2011-08-26
+Robert Hawkins,Female,Grade 1,D-Ruby,Full Payment,History,Glee Club,42707.91,3554,95.66,2025-07-05,2018-12-19
+Nicole Hall,Female,Grade 1,B-Emerald,Scholarship,Computer Science,Arts Club,28490.32,3798,89.53,2025-08-06,2014-09-22
+Rebecca Collins,Female,Grade 9,B-Emerald,Late Payment,Mathematics,Glee Club,34955.48,1510,78.14,2025-11-08,2008-11-08
+Evelyn Lloyd,Male,Grade 11,B-Emerald,Full Payment,Science,Glee Club,17387.42,2371,85.89,2025-10-06,2008-05-25
+Brian Warren,Male,Grade 11,A-Diamond,Full Payment,Literature,Student Council,41980.32,4517,97.24,2026-03-24,2009-06-02
+Ashley Wagner,Non-binary,Grade 9,C-Sapphire,Late Payment,Science,Arts Club,37365.31,3012,95.91,2025-09-03,2014-01-22
+Jennifer Robinson,Female,Grade 7,A-Diamond,Installment,Science,Varsity,43721.86,3417,98.69,2026-02-08,2010-04-23
+Michael Hughes,Female,Grade 6,B-Emerald,Late Payment,Mathematics,Arts Club,18326.94,3035,89.81,2026-01-02,2007-12-16
+Ashley Moore,Non-binary,Grade 6,D-Ruby,Scholarship,Science,Glee Club,36780.0,669,77.59,2026-05-06,2008-09-06
+Mary Everett,Non-binary,Grade 1,A-Diamond,Full Payment,Computer Science,Glee Club,30714.22,573,94.27,2025-08-04,2010-05-07
+Jennifer Odonnell,Non-binary,Grade 1,B-Emerald,Full Payment,Literature,Varsity,42542.94,2498,92.57,2026-04-15,2017-09-22
+David Herring,Non-binary,Grade 12,D-Ruby,Late Payment,Computer Science,None,29597.01,3855,85.64,2025-06-26,2015-03-17
+Kimberly Crane,Non-binary,Grade 11,B-Emerald,Installment,History,Varsity,26594.22,887,95.32,2025-09-26,2019-04-05
+Marvin Mcconnell,Female,Grade 12,B-Emerald,Full Payment,Computer Science,None,27765.55,4338,95.6,2025-07-27,2014-05-28
+Justin Griffin,Non-binary,Grade 9,B-Emerald,Installment,Literature,Arts Club,42942.58,2405,80.44,2026-02-28,2014-04-09
+Mark Flowers,Male,Grade 11,D-Ruby,Late Payment,Science,Varsity,19228.2,1173,91.61,2026-03-02,2015-10-10
+Michael Smith,Male,Grade 9,C-Sapphire,Late Payment,Computer Science,None,21567.67,2622,83.27,2026-04-24,2013-06-06
+James Schmidt,Male,Grade 1,C-Sapphire,Scholarship,History,Glee Club,20746.67,4027,92.21,2025-12-10,2014-02-17
+Joshua Woods,Female,Grade 11,B-Emerald,Late Payment,History,Glee Club,31420.64,4144,83.97,2026-03-22,2008-09-20
+Samantha Hogan,Male,Grade 7,C-Sapphire,Late Payment,Computer Science,Arts Club,29599.03,4466,96.09,2025-12-24,2007-06-24
+Mr. Michael Spencer,Male,Grade 6,D-Ruby,Late Payment,Science,Glee Club,33584.99,4412,76.73,2025-05-10,2008-05-20
+Mrs. Karen Frederick MD,Female,Grade 6,C-Sapphire,Full Payment,Science,Student Council,39270.2,4648,82.05,2025-05-24,2017-12-07
+Kari Jones,Female,Grade 12,B-Emerald,Late Payment,Mathematics,None,35932.22,3892,88.89,2025-08-24,2012-04-17
+Destiny Smith MD,Female,Grade 6,B-Emerald,Installment,Literature,Arts Club,22386.65,4003,97.8,2026-03-18,2018-08-08
+Joshua Hobbs,Male,Grade 7,D-Ruby,Full Payment,Computer Science,Student Council,16659.12,2449,84.65,2025-12-14,2009-12-20
+Alyssa Jones,Non-binary,Grade 12,D-Ruby,Installment,Science,Varsity,29035.29,1685,80.48,2026-02-04,2019-06-18
+Anthony Williams,Non-binary,Grade 1,B-Emerald,Installment,Mathematics,Student Council,32694.7,2142,91.29,2025-08-05,2015-10-20
+Rebecca Rodgers,Female,Grade 7,A-Diamond,Late Payment,Mathematics,None,25547.08,4271,98.99,2026-04-07,2018-07-02
+John Smith,Non-binary,Grade 1,B-Emerald,Scholarship,Literature,Student Council,40574.45,2286,80.11,2025-10-23,2016-05-07
+Allison Wallace,Male,Grade 6,A-Diamond,Installment,Mathematics,Student Council,32263.63,698,76.87,2026-04-05,2017-01-03
+Richard Meyer,Male,Grade 12,C-Sapphire,Scholarship,History,Student Council,17178.79,615,75.06,2026-01-27,2009-09-06
+Andrea Ford,Female,Grade 9,B-Emerald,Scholarship,History,Varsity,44522.1,2190,84.76,2025-08-17,2013-12-15
+Mrs. Ashley Acosta DVM,Non-binary,Grade 11,D-Ruby,Installment,History,Student Council,37761.44,4042,95.65,2026-04-12,2007-11-13
+Hannah Robinson,Non-binary,Grade 12,C-Sapphire,Installment,Mathematics,Student Council,27792.7,1737,88.33,2025-11-05,2012-01-11
+Jillian Park,Non-binary,Grade 12,B-Emerald,Full Payment,Literature,Glee Club,20997.8,2829,75.06,2025-07-28,2018-05-16
+Lisa Dickerson,Male,Grade 1,D-Ruby,Scholarship,Literature,Student Council,23521.27,2048,82.88,2026-04-20,2018-03-06
+Jesse Stevenson,Male,Grade 6,C-Sapphire,Late Payment,Mathematics,Varsity,21143.45,3708,95.33,2025-08-26,2010-05-10
+Autumn Boone,Female,Grade 6,C-Sapphire,Full Payment,Science,Glee Club,25561.75,4082,84.09,2025-10-25,2018-10-11
+Kristen Daniel,Male,Grade 7,C-Sapphire,Scholarship,History,Arts Club,34340.78,4761,80.82,2025-09-10,2020-03-30
+James Hernandez,Non-binary,Grade 6,C-Sapphire,Installment,Literature,Student Council,40720.43,1676,90.74,2026-05-01,2012-11-23
+Jennifer Martin,Male,Grade 1,D-Ruby,Scholarship,History,Varsity,21264.75,3207,83.19,2025-05-09,2010-01-17
+Anthony Schmidt,Female,Grade 1,D-Ruby,Full Payment,Computer Science,Student Council,34893.31,2203,96.56,2025-07-27,2019-11-09
+Michele Beard,Non-binary,Grade 6,B-Emerald,Full Payment,Science,Student Council,22776.52,2968,95.42,2025-10-26,2017-05-10
+Susan Powers,Non-binary,Grade 1,B-Emerald,Scholarship,Literature,Arts Club,32404.84,4095,97.37,2025-05-29,2010-11-05
+Bradley Mitchell,Female,Grade 6,B-Emerald,Installment,Literature,Glee Club,32896.72,1889,95.99,2025-10-15,2015-08-26
+Fernando Bryant,Non-binary,Grade 1,D-Ruby,Full Payment,Mathematics,Student Council,43613.84,3436,82.45,2025-09-04,2010-05-24
+Nicholas Thompson,Male,Grade 3,B-Emerald,Late Payment,Science,Glee Club,42477.88,4075,79.68,2026-02-15,2013-02-17
+Mark Rogers,Female,Grade 6,D-Ruby,Scholarship,Computer Science,Arts Club,25416.3,3382,97.3,2025-11-08,2017-05-20
+Matthew Parker,Female,Grade 6,D-Ruby,Installment,History,None,22415.42,812,98.71,2025-05-29,2007-06-09
+Tiffany Reynolds,Non-binary,Grade 9,B-Emerald,Late Payment,Computer Science,Student Council,27710.17,1560,97.04,2026-03-31,2014-04-23
+Daniel Norris,Male,Grade 12,C-Sapphire,Full Payment,History,Arts Club,19857.21,1269,97.97,2025-11-10,2011-06-04
+Larry Smith,Non-binary,Grade 6,A-Diamond,Late Payment,Mathematics,Arts Club,37190.43,2758,98.79,2026-04-29,2011-07-26
+Tanya Howard,Female,Grade 7,C-Sapphire,Installment,Science,Varsity,18807.52,4284,91.39,2025-10-22,2016-11-15
+Sandra Schwartz,Non-binary,Grade 9,A-Diamond,Late Payment,Mathematics,None,22233.52,2752,98.97,2025-07-10,2009-04-04
+Bryan Butler,Non-binary,Grade 11,B-Emerald,Full Payment,Mathematics,Arts Club,38127.68,2157,94.14,2026-04-14,2013-11-20
+James Wright,Female,Grade 11,D-Ruby,Full Payment,Literature,Glee Club,31670.95,1858,93.3,2025-09-14,2013-08-29
+Thomas Nichols,Male,Grade 6,C-Sapphire,Late Payment,Science,None,37018.39,1211,78.65,2026-02-25,2019-08-23
+Jessica Hooper,Female,Grade 7,A-Diamond,Full Payment,History,Glee Club,17054.39,2709,83.63,2025-12-13,2012-12-25
+Charles Howe,Non-binary,Grade 11,B-Emerald,Scholarship,Computer Science,Varsity,25166.74,4566,96.41,2025-07-06,2011-10-25
+Kyle Ponce,Female,Grade 6,D-Ruby,Late Payment,History,Varsity,26199.14,4749,95.89,2025-10-02,2016-01-11
+Matthew Reid,Female,Grade 9,D-Ruby,Late Payment,Literature,Arts Club,15540.02,780,82.55,2025-10-30,2009-03-15
+Richard Blackwell,Male,Grade 6,B-Emerald,Scholarship,Science,Varsity,21017.86,2235,78.49,2025-11-07,2015-06-01
+Debra Williams,Female,Grade 12,D-Ruby,Scholarship,Mathematics,Glee Club,32316.77,4324,75.43,2026-03-26,2007-11-04
+Roger Thomas,Female,Grade 7,D-Ruby,Late Payment,History,Glee Club,21199.03,2882,98.1,2025-11-07,2013-10-22
+David Valdez,Female,Grade 1,A-Diamond,Scholarship,Computer Science,Varsity,33021.46,606,91.17,2025-11-08,2018-10-08
+Kathleen Peters,Female,Grade 6,A-Diamond,Scholarship,History,Glee Club,24986.08,686,88.33,2025-09-29,2009-03-31
+Jacqueline Love,Female,Grade 3,A-Diamond,Installment,Computer Science,None,31232.16,2668,97.99,2025-09-21,2011-03-04
+Jon Gibson,Male,Grade 9,A-Diamond,Scholarship,History,Glee Club,15842.78,1625,85.44,2025-12-11,2018-01-22
+John Oneill,Female,Grade 7,B-Emerald,Scholarship,Mathematics,Arts Club,20445.85,707,85.73,2026-04-06,2017-10-04
+William Campbell,Male,Grade 9,B-Emerald,Late Payment,Literature,Student Council,38096.98,4627,77.04,2026-05-06,2010-11-08
+Larry Pearson,Female,Grade 6,C-Sapphire,Late Payment,Mathematics,Student Council,42742.06,969,75.24,2026-01-19,2012-07-24
+Annette Butler,Male,Grade 9,C-Sapphire,Full Payment,Mathematics,Glee Club,20029.79,2959,80.66,2026-04-10,2010-05-02
+Sean Baker,Female,Grade 9,D-Ruby,Late Payment,Literature,Varsity,23379.03,1719,80.81,2026-02-07,2017-04-03
+Barbara Lee,Male,Grade 9,A-Diamond,Installment,Science,Arts Club,30378.68,3878,94.13,2025-07-26,2017-10-08
+Edwin Mata,Female,Grade 12,C-Sapphire,Scholarship,Science,None,35182.83,3867,77.98,2025-10-04,2017-09-08
+Adam Meyer,Non-binary,Grade 3,D-Ruby,Late Payment,History,Glee Club,16857.4,4066,84.3,2026-03-02,2019-11-16
+William Lee DVM,Female,Grade 1,B-Emerald,Late Payment,Science,Glee Club,18306.11,3455,75.84,2025-09-12,2016-04-09
+Samantha Benson,Non-binary,Grade 7,A-Diamond,Full Payment,History,Varsity,24141.74,4397,79.76,2025-05-22,2011-05-09
+Michael Wilkinson,Male,Grade 9,D-Ruby,Scholarship,History,Varsity,31218.15,1263,87.21,2025-08-12,2010-02-23
+Vanessa Rios,Female,Grade 6,A-Diamond,Scholarship,Computer Science,Glee Club,34681.65,3978,92.53,2026-03-10,2013-01-12
+Bobby Kane,Male,Grade 1,A-Diamond,Late Payment,Science,Glee Club,42921.01,3252,79.03,2025-11-17,2013-02-24
+Brenda Bell,Male,Grade 6,A-Diamond,Late Payment,History,Arts Club,27112.11,4293,94.15,2026-05-04,2015-12-29
+Jessica Morris,Female,Grade 11,C-Sapphire,Installment,Mathematics,Arts Club,41870.51,2093,76.78,2025-08-24,2015-09-09
+Lorraine Clark,Non-binary,Grade 7,A-Diamond,Installment,Science,Glee Club,20802.08,2745,94.47,2025-10-27,2012-03-04
+Michelle Riley,Male,Grade 1,C-Sapphire,Scholarship,History,Varsity,39452.01,877,84.36,2025-11-02,2018-05-16
+Patricia Campbell,Male,Grade 9,D-Ruby,Scholarship,Computer Science,Glee Club,33822.59,4954,95.2,2025-11-21,2009-02-13
+Julian Lopez,Female,Grade 11,C-Sapphire,Late Payment,History,Arts Club,40222.19,3806,93.8,2025-10-02,2011-01-14
+Brian Reed,Male,Grade 6,B-Emerald,Full Payment,Mathematics,Student Council,24322.25,4140,85.98,2025-11-02,2019-02-13
+Wendy Clark,Male,Grade 9,C-Sapphire,Full Payment,Mathematics,Student Council,22504.06,1978,96.53,2026-03-14,2013-10-16
+Joseph Solis,Male,Grade 12,A-Diamond,Scholarship,Literature,Arts Club,17401.95,1007,77.98,2025-09-21,2008-08-04
+Wayne Russo,Female,Grade 1,C-Sapphire,Full Payment,Literature,Arts Club,15689.23,3099,79.49,2025-09-01,2009-03-10
+Mario Gutierrez,Female,Grade 3,A-Diamond,Full Payment,Science,None,18546.24,3277,81.87,2025-06-20,2012-06-23
+Rebecca Howard,Non-binary,Grade 9,D-Ruby,Full Payment,History,Varsity,21882.23,2900,89.05,2025-08-23,2017-10-22
+Paul Garza,Female,Grade 11,B-Emerald,Scholarship,Literature,Arts Club,42035.85,4700,77.93,2025-09-30,2017-11-06
+Tyler Tran,Female,Grade 3,C-Sapphire,Full Payment,Literature,Arts Club,20423.95,1365,79.46,2025-06-20,2009-08-31
+Diana Farrell,Non-binary,Grade 1,C-Sapphire,Full Payment,History,Varsity,38256.83,3018,91.73,2026-04-23,2010-03-08
+Laura Barker,Female,Grade 3,D-Ruby,Scholarship,Computer Science,None,21957.45,2838,76.1,2025-11-01,2016-09-16
+Shannon Brown,Male,Grade 9,D-Ruby,Scholarship,History,Varsity,18145.92,2769,85.21,2025-07-10,2014-04-30
+Colton Sparks,Female,Grade 6,D-Ruby,Scholarship,Computer Science,Glee Club,35100.65,4942,83.35,2026-02-19,2013-08-21
+Jennifer Sanchez,Non-binary,Grade 1,A-Diamond,Installment,Literature,Varsity,21200.97,4177,88.3,2025-11-02,2020-01-05
+Alec Bush,Non-binary,Grade 7,B-Emerald,Late Payment,Literature,Arts Club,21893.51,1134,85.14,2026-01-05,2009-05-07
+Melissa Alexander,Female,Grade 12,A-Diamond,Late Payment,Computer Science,Varsity,35027.44,554,89.85,2026-04-25,2013-04-12
+John Palmer MD,Female,Grade 3,C-Sapphire,Late Payment,Computer Science,Student Council,33603.51,4007,85.46,2025-06-11,2019-09-06
+Erin Simpson,Male,Grade 12,D-Ruby,Scholarship,Literature,Arts Club,21062.45,2763,91.75,2025-09-20,2010-03-30
+David Barnett,Non-binary,Grade 9,B-Emerald,Scholarship,Mathematics,Glee Club,42538.12,3710,89.48,2026-04-01,2018-04-06
+John Palmer,Male,Grade 1,A-Diamond,Installment,Science,None,44900.38,4631,88.68,2025-09-22,2013-04-24
+Luke Gutierrez,Non-binary,Grade 11,A-Diamond,Full Payment,Literature,Glee Club,42311.08,854,87.98,2026-03-03,2011-11-06
+Walter Allen,Non-binary,Grade 3,A-Diamond,Installment,Literature,Student Council,22592.82,4080,88.95,2026-02-16,2010-04-01
+Andrew Holmes,Female,Grade 6,A-Diamond,Scholarship,Science,Varsity,18117.74,4575,87.07,2025-06-18,2018-10-02
+James Wall,Non-binary,Grade 12,B-Emerald,Installment,Mathematics,Arts Club,42350.42,4543,96.49,2025-10-28,2011-08-12
+Cindy Nelson,Non-binary,Grade 12,C-Sapphire,Installment,Mathematics,Varsity,32334.27,1710,75.3,2026-03-14,2018-02-01
+Abigail Hatfield,Female,Grade 1,B-Emerald,Full Payment,Mathematics,Arts Club,36208.57,525,95.38,2026-01-27,2018-12-17
+William Mahoney,Female,Grade 9,B-Emerald,Full Payment,History,Varsity,30106.43,539,81.14,2026-04-14,2016-03-09
+Kimberly Sweeney,Female,Grade 11,B-Emerald,Full Payment,Science,Arts Club,28039.96,1921,77.84,2025-05-30,2017-05-19
+Paul Houston,Male,Grade 1,B-Emerald,Scholarship,History,None,18363.22,4900,89.11,2025-11-06,2017-04-13
+Kenneth Gonzalez,Non-binary,Grade 1,D-Ruby,Full Payment,Literature,Glee Club,38627.74,4232,95.7,2026-03-09,2007-06-01
+Joseph Navarro,Female,Grade 3,B-Emerald,Scholarship,History,Varsity,17345.57,4478,84.07,2025-09-11,2011-03-25
+William Taylor,Non-binary,Grade 12,A-Diamond,Scholarship,Mathematics,Student Council,16836.69,1405,76.56,2025-07-19,2008-08-30
+Edward Brown,Non-binary,Grade 3,C-Sapphire,Installment,History,Varsity,27323.71,1949,97.81,2025-12-18,2019-06-13
+Cody Palmer,Female,Grade 3,B-Emerald,Late Payment,Computer Science,Glee Club,28047.64,726,90.33,2026-03-15,2017-12-14
+Amber Dodson,Female,Grade 11,B-Emerald,Scholarship,Science,Student Council,38101.64,3071,92.87,2026-04-07,2014-12-27
+Sandra Davis,Female,Grade 1,D-Ruby,Full Payment,Science,Glee Club,30753.14,4918,77.35,2025-08-05,2016-02-21
+Mary Nichols,Non-binary,Grade 3,A-Diamond,Installment,Mathematics,Varsity,32335.8,3222,94.51,2025-08-08,2018-08-12
+Charlotte Malone,Non-binary,Grade 12,A-Diamond,Installment,Science,None,41965.57,4722,85.69,2026-02-18,2016-06-13
+Robert Smith,Male,Grade 6,C-Sapphire,Scholarship,Computer Science,None,19162.8,2669,78.82,2025-09-20,2012-12-29
+Natalie Burns,Male,Grade 12,D-Ruby,Full Payment,Computer Science,Student Council,35728.12,2306,89.22,2025-06-26,2017-10-24
+Helen Brandt,Female,Grade 12,C-Sapphire,Scholarship,History,Student Council,36619.62,4800,96.44,2026-01-31,2018-01-03
+Troy Rodriguez,Non-binary,Grade 12,A-Diamond,Late Payment,Computer Science,Varsity,32632.07,2694,84.41,2025-10-29,2019-01-17
+Jamie Jefferson,Female,Grade 6,C-Sapphire,Scholarship,Literature,Varsity,44960.5,964,79.35,2025-06-19,2014-07-14
+Omar Mcclain,Non-binary,Grade 9,B-Emerald,Late Payment,Mathematics,Student Council,39341.34,3907,96.4,2025-09-24,2017-04-18
+Christina Barnes,Female,Grade 12,C-Sapphire,Full Payment,Mathematics,None,15766.93,3759,84.27,2025-09-27,2015-05-06
+Martin Diaz,Female,Grade 7,D-Ruby,Installment,Literature,Glee Club,44354.18,4854,88.35,2026-02-07,2011-06-12
+Wanda Garcia,Female,Grade 7,D-Ruby,Full Payment,Computer Science,None,35233.4,979,75.04,2025-06-22,2012-09-17
+Jason Wilcox,Non-binary,Grade 7,C-Sapphire,Scholarship,Mathematics,None,38245.37,877,75.6,2025-07-27,2011-09-09
+Aaron Freeman,Non-binary,Grade 1,C-Sapphire,Full Payment,Computer Science,Student Council,22168.0,3796,96.96,2025-08-15,2007-12-30
+John Estrada,Female,Grade 12,A-Diamond,Late Payment,Computer Science,Student Council,41406.32,1821,86.47,2025-06-29,2008-01-25
+Vincent Gray,Male,Grade 6,A-Diamond,Scholarship,Literature,Glee Club,18191.02,2512,88.1,2026-04-22,2011-03-07
+Jacob Newman,Female,Grade 11,A-Diamond,Scholarship,Science,Glee Club,41145.82,4212,82.31,2026-02-09,2011-03-03
+Timothy Allen,Male,Grade 9,B-Emerald,Late Payment,Science,Arts Club,33194.99,718,92.05,2026-02-16,2012-08-22
+Tracey Cortez,Non-binary,Grade 6,D-Ruby,Late Payment,Literature,Varsity,26388.79,4697,76.43,2025-05-19,2009-08-14
+Brandon Foster,Non-binary,Grade 9,A-Diamond,Full Payment,Science,None,41846.51,4552,94.46,2026-01-08,2016-09-08
+Vickie Schmidt,Female,Grade 7,B-Emerald,Scholarship,History,Varsity,31885.88,1722,79.43,2025-10-12,2017-05-28
+Lisa Davis,Non-binary,Grade 11,C-Sapphire,Installment,Mathematics,Varsity,42325.2,4581,76.07,2025-08-07,2020-02-01
+Abigail Martin,Male,Grade 9,C-Sapphire,Full Payment,History,Varsity,16891.84,1469,85.46,2026-01-04,2014-07-04
+John Moore,Female,Grade 6,D-Ruby,Late Payment,History,Glee Club,22277.62,2161,78.39,2025-12-24,2019-06-09
+Kevin Miranda,Female,Grade 12,D-Ruby,Scholarship,Mathematics,Arts Club,39643.59,1912,96.04,2026-01-03,2007-12-31
+Adam Hardy,Female,Grade 7,D-Ruby,Scholarship,Literature,Varsity,43457.52,1951,90.79,2026-03-25,2019-05-02
+Ronald Lee,Non-binary,Grade 7,C-Sapphire,Scholarship,Literature,Varsity,26168.2,2080,83.3,2025-10-09,2009-09-13
+Theodore Hayes,Female,Grade 11,A-Diamond,Full Payment,History,Arts Club,39836.57,4439,88.58,2026-02-05,2010-07-02
+Anthony Simpson,Non-binary,Grade 12,C-Sapphire,Full Payment,Science,Student Council,17403.8,3613,90.84,2025-12-10,2015-08-12
+Kevin Mendoza,Male,Grade 1,A-Diamond,Installment,Literature,Glee Club,15576.1,520,94.22,2025-08-01,2010-05-22
+Krystal Ferguson,Non-binary,Grade 1,A-Diamond,Installment,Mathematics,None,36334.17,1188,93.66,2025-07-12,2011-02-02
+Jeffrey Lopez,Female,Grade 11,A-Diamond,Late Payment,Science,Student Council,32113.22,4088,86.87,2025-07-22,2007-05-17
+Shane Williams,Male,Grade 3,D-Ruby,Scholarship,Science,Student Council,24912.44,2895,89.99,2025-10-28,2019-11-08
+David Saunders,Non-binary,Grade 12,D-Ruby,Scholarship,History,Varsity,33102.52,819,84.23,2026-03-19,2014-12-09
+John Smith,Male,Grade 9,D-Ruby,Late Payment,Science,Student Council,40696.26,4379,97.44,2025-11-03,2008-04-24
+Gabriel Mcdonald,Male,Grade 7,A-Diamond,Full Payment,History,Varsity,28371.07,1263,93.51,2026-03-16,2017-10-28
+Patricia Brown,Non-binary,Grade 1,D-Ruby,Full Payment,Computer Science,Arts Club,36903.25,2004,92.88,2025-11-20,2010-09-03
+Kathryn Wilson,Male,Grade 9,B-Emerald,Installment,Computer Science,Varsity,20257.06,1746,83.16,2025-11-16,2020-01-18
+Lauren Fowler,Non-binary,Grade 11,A-Diamond,Late Payment,History,Glee Club,17965.94,1423,88.11,2025-11-24,2007-06-22
+Nicholas Parker,Female,Grade 9,B-Emerald,Scholarship,History,Student Council,16332.37,4229,90.26,2025-12-24,2009-12-12
+Amanda Dillon,Female,Grade 3,D-Ruby,Scholarship,History,Varsity,24129.35,3101,86.33,2026-02-17,2017-03-24
+Jessica Bell,Female,Grade 6,B-Emerald,Full Payment,Literature,Arts Club,25134.51,2085,76.68,2025-11-02,2010-07-12
+Austin Walker,Non-binary,Grade 3,D-Ruby,Full Payment,Science,Glee Club,25153.1,4033,86.5,2025-08-27,2016-07-02
+Jonathan Valentine,Male,Grade 6,C-Sapphire,Late Payment,Literature,Student Council,40467.34,4140,82.45,2025-05-24,2009-05-24
+Christina Dunn,Male,Grade 6,C-Sapphire,Late Payment,Literature,None,20558.52,2477,96.4,2025-07-16,2012-06-05
+Shane Davis,Female,Grade 6,B-Emerald,Full Payment,Literature,Varsity,20239.23,3518,75.9,2025-12-17,2011-09-26
+Lori Huang,Male,Grade 9,D-Ruby,Late Payment,Literature,None,20935.72,2188,96.82,2025-09-20,2011-08-28
+Peter Barrera,Male,Grade 7,A-Diamond,Late Payment,Science,Glee Club,44322.35,4879,78.24,2025-12-25,2013-03-02
+David Peterson,Non-binary,Grade 11,D-Ruby,Installment,Science,Glee Club,29050.83,3639,95.96,2025-07-30,2007-11-04
+John Anderson,Female,Grade 11,C-Sapphire,Late Payment,History,Varsity,44453.86,3753,77.0,2025-07-20,2013-04-25
+Daniel Montgomery,Non-binary,Grade 7,A-Diamond,Full Payment,Science,Student Council,22076.53,857,88.77,2026-02-12,2017-08-21
+Carrie James,Male,Grade 6,C-Sapphire,Scholarship,Computer Science,Glee Club,16889.09,2205,77.04,2025-08-05,2012-04-30
+Brandy Noble,Male,Grade 9,D-Ruby,Scholarship,Literature,Glee Club,27139.83,2306,86.24,2026-04-24,2015-04-07
+Debbie Bryan,Non-binary,Grade 9,C-Sapphire,Scholarship,Science,Varsity,36755.34,4194,98.41,2025-10-24,2013-04-19
+Susan Smith,Non-binary,Grade 9,C-Sapphire,Late Payment,Science,None,44039.47,4784,83.13,2025-10-23,2019-04-21
+Kristina Williams,Female,Grade 9,A-Diamond,Scholarship,Mathematics,None,39225.76,4318,90.02,2025-07-26,2015-12-02
+Joe Pace,Male,Grade 12,C-Sapphire,Late Payment,Mathematics,Varsity,25547.42,1993,83.27,2025-11-16,2019-02-17
+Grace Hall,Non-binary,Grade 9,C-Sapphire,Installment,Literature,None,27495.34,2253,85.63,2025-08-02,2012-12-24
+Eric Hayes,Female,Grade 3,A-Diamond,Full Payment,History,Varsity,18909.59,3325,96.76,2026-03-27,2009-05-27
+Kara Johnson,Male,Grade 12,C-Sapphire,Late Payment,Science,Student Council,18810.65,2542,95.25,2026-04-24,2009-07-27
+Evelyn Bowen,Non-binary,Grade 3,C-Sapphire,Installment,Science,Varsity,15835.21,1697,84.77,2026-02-19,2020-03-30
+Karen Mccormick,Female,Grade 6,B-Emerald,Full Payment,History,Glee Club,25013.8,3503,80.2,2025-10-13,2010-05-22
+Jacqueline Potts,Male,Grade 12,D-Ruby,Scholarship,History,None,25688.42,3030,97.75,2025-08-31,2014-12-03
+Shannon Sims,Female,Grade 1,D-Ruby,Late Payment,Science,Varsity,43903.43,2901,88.38,2025-09-01,2016-12-19
+Cheryl Campbell,Male,Grade 9,A-Diamond,Scholarship,History,None,30598.98,1021,82.88,2026-03-19,2013-05-24
+Jennifer Douglas,Non-binary,Grade 6,B-Emerald,Full Payment,History,None,32198.7,4396,94.88,2026-01-25,2015-01-04
+Alec Briggs,Non-binary,Grade 3,A-Diamond,Installment,Literature,Glee Club,39623.94,3155,79.14,2025-05-28,2017-01-12
+Angela Farley,Non-binary,Grade 3,A-Diamond,Installment,Computer Science,Arts Club,25015.9,3541,81.84,2025-11-06,2017-04-01
+Brandon Clarke,Non-binary,Grade 3,C-Sapphire,Late Payment,Literature,Student Council,15802.57,3669,86.29,2026-03-25,2008-07-16
+Roger Watson,Male,Grade 7,C-Sapphire,Installment,Science,Varsity,28981.58,4160,76.58,2025-11-02,2013-07-10
+Pamela Brown,Non-binary,Grade 11,D-Ruby,Late Payment,History,Varsity,19075.57,3729,98.91,2025-10-31,2013-06-23
+Steven Weaver,Non-binary,Grade 11,B-Emerald,Scholarship,Computer Science,Glee Club,33313.83,4578,79.11,2026-04-02,2019-10-12
+Taylor Chavez,Non-binary,Grade 6,C-Sapphire,Late Payment,History,None,34540.99,1150,75.09,2026-04-07,2019-12-14
+Tara Kramer,Non-binary,Grade 12,A-Diamond,Late Payment,Literature,Varsity,20023.29,2527,96.4,2025-07-29,2012-12-20
+Carlos Taylor,Male,Grade 11,B-Emerald,Late Payment,Mathematics,Varsity,41592.95,1754,77.76,2026-05-05,2018-03-14
+Autumn Pugh,Non-binary,Grade 12,A-Diamond,Installment,History,None,33895.01,2833,98.14,2025-06-25,2007-08-10
+James Price,Female,Grade 11,A-Diamond,Installment,Science,Varsity,43389.1,1296,85.61,2025-09-27,2008-06-14
+Vanessa Guerrero,Female,Grade 9,B-Emerald,Full Payment,History,None,27675.02,2035,80.02,2025-11-17,2016-09-30
+Stephanie Williams,Non-binary,Grade 6,C-Sapphire,Full Payment,Computer Science,Arts Club,43348.68,5000,96.39,2025-11-21,2017-11-19
+Tommy Rodriguez,Female,Grade 3,B-Emerald,Late Payment,Literature,Varsity,24137.2,833,79.57,2025-06-25,2010-01-28
+Chad White,Female,Grade 6,D-Ruby,Scholarship,Computer Science,Student Council,28951.03,829,96.23,2025-07-13,2019-09-07
+Heather Cole,Male,Grade 3,D-Ruby,Full Payment,Science,Varsity,44122.77,2388,92.29,2026-01-23,2015-09-17
+Michelle Wilson,Non-binary,Grade 12,D-Ruby,Scholarship,Mathematics,None,15711.09,2495,86.87,2026-01-09,2015-04-15
+Maurice Shields,Non-binary,Grade 12,C-Sapphire,Scholarship,Mathematics,Student Council,40117.98,2581,97.85,2025-09-13,2013-09-15
+Margaret Coleman,Male,Grade 1,B-Emerald,Scholarship,History,Varsity,37777.69,3567,91.75,2026-04-30,2012-11-07
+Brian Mcclure,Male,Grade 7,A-Diamond,Installment,Mathematics,Varsity,23892.96,2381,81.86,2026-04-02,2009-08-25
+Wendy Herrera,Female,Grade 7,D-Ruby,Installment,Mathematics,Arts Club,16476.62,4457,90.16,2025-09-12,2009-09-29
+Veronica Lane,Female,Grade 1,C-Sapphire,Full Payment,Computer Science,Varsity,19995.81,1078,76.45,2025-12-30,2007-07-25
+Daniel Martinez,Non-binary,Grade 9,C-Sapphire,Late Payment,Literature,None,27535.73,1386,75.59,2026-02-27,2009-11-30
+Teresa Wolf,Female,Grade 11,B-Emerald,Late Payment,Computer Science,None,37666.76,1140,81.77,2026-03-16,2010-01-06
+Samantha Glover,Non-binary,Grade 6,B-Emerald,Late Payment,Science,Arts Club,28865.45,2703,87.14,2025-10-22,2015-09-28
+John Camacho,Female,Grade 3,D-Ruby,Late Payment,Mathematics,Glee Club,26389.18,2033,79.88,2025-06-28,2012-01-28
+Trevor Cross,Male,Grade 3,A-Diamond,Late Payment,History,Student Council,38764.36,1794,91.21,2026-02-10,2018-04-04
+Donald Rush,Female,Grade 1,D-Ruby,Full Payment,Computer Science,Varsity,16300.68,1531,92.45,2025-12-17,2009-01-27
+Paul Bell,Non-binary,Grade 12,C-Sapphire,Full Payment,Mathematics,Arts Club,24029.47,1132,98.67,2025-09-07,2014-02-25
+Laura Horton,Female,Grade 3,C-Sapphire,Late Payment,Mathematics,Student Council,40848.75,4564,92.58,2026-01-02,2017-12-19
+Aaron Wilson,Male,Grade 11,A-Diamond,Installment,Mathematics,Varsity,43148.3,1749,97.21,2025-08-24,2017-08-03
+Andrew Nguyen MD,Male,Grade 12,B-Emerald,Late Payment,History,Varsity,27053.19,3438,90.21,2025-05-14,2016-02-13
+Sean Chambers,Non-binary,Grade 3,C-Sapphire,Late Payment,Computer Science,None,17651.81,1213,83.97,2025-09-13,2013-02-21
+Gary Farley,Male,Grade 1,B-Emerald,Late Payment,Computer Science,Arts Club,26500.39,4971,94.22,2025-12-17,2012-05-05
+Ashley Brown,Female,Grade 11,A-Diamond,Scholarship,Computer Science,Arts Club,17754.0,3655,93.28,2025-07-11,2010-01-31
+Angela Pham,Male,Grade 3,C-Sapphire,Late Payment,Literature,None,20709.98,4893,85.39,2026-01-20,2013-10-14
+Robert Young,Female,Grade 6,A-Diamond,Full Payment,Computer Science,Glee Club,35392.91,1184,84.64,2025-05-08,2011-01-27
+Kristine Montes,Male,Grade 3,B-Emerald,Full Payment,Science,Varsity,28993.85,3722,81.03,2025-09-09,2013-12-29
+Benjamin Johnston,Male,Grade 9,B-Emerald,Scholarship,History,Student Council,17246.31,1966,91.56,2026-01-20,2010-05-05
+Sandra Taylor,Non-binary,Grade 11,B-Emerald,Full Payment,Literature,Student Council,23447.75,3173,80.32,2025-11-10,2013-05-02
+Hailey Wood,Male,Grade 11,C-Sapphire,Late Payment,Mathematics,None,30117.68,1777,81.08,2025-09-16,2008-08-08
+Wendy Lynch,Non-binary,Grade 3,A-Diamond,Scholarship,Literature,Varsity,32865.09,1231,95.02,2025-08-31,2008-04-08
+Joseph Ortiz,Female,Grade 7,B-Emerald,Full Payment,History,None,42404.25,909,85.32,2026-04-22,2013-12-04
+Gina Russell,Female,Grade 6,B-Emerald,Scholarship,Mathematics,None,44107.93,4997,92.75,2026-02-14,2012-06-21
+Brian Bennett,Non-binary,Grade 12,A-Diamond,Installment,Science,None,33343.18,1026,97.9,2025-06-11,2008-12-21
+Brian George,Non-binary,Grade 6,D-Ruby,Scholarship,Science,Arts Club,41464.49,2754,90.86,2026-01-13,2011-02-19
+Sandra Weber,Male,Grade 9,C-Sapphire,Late Payment,Science,Varsity,31043.61,2404,88.41,2026-02-01,2011-09-02
+Luke Shelton,Male,Grade 7,A-Diamond,Full Payment,Science,Varsity,16959.83,4795,93.82,2025-08-13,2018-03-02
+Andrew Jones,Female,Grade 3,B-Emerald,Installment,Literature,Glee Club,18086.07,1496,90.69,2026-01-24,2013-05-17
+Brandi Johnson,Female,Grade 9,B-Emerald,Full Payment,Computer Science,Glee Club,41920.41,3523,77.44,2026-02-20,2016-01-06
+Jamie Jackson,Female,Grade 1,B-Emerald,Installment,Science,Student Council,28265.27,2921,91.28,2025-11-15,2013-01-24
+Steven Morgan,Female,Grade 3,C-Sapphire,Installment,Science,None,30927.92,1197,82.57,2025-12-06,2016-01-24
+Rodney Holloway,Female,Grade 7,B-Emerald,Scholarship,Science,None,18874.78,3747,84.19,2025-12-25,2019-03-31
+Patricia Eaton,Female,Grade 9,D-Ruby,Late Payment,Literature,None,26080.33,2874,81.81,2026-03-04,2013-04-04
+Michelle Stokes,Male,Grade 11,C-Sapphire,Late Payment,Computer Science,Arts Club,17371.56,1318,86.76,2025-06-23,2009-02-13
+Mallory Foster,Female,Grade 6,D-Ruby,Full Payment,Science,Glee Club,44984.9,2630,81.34,2025-10-03,2008-06-18
+Brandon Andrews,Non-binary,Grade 9,D-Ruby,Scholarship,History,Varsity,40333.7,2096,78.81,2026-03-18,2016-05-23
+Connie Smith,Male,Grade 7,D-Ruby,Installment,Literature,None,32939.5,4675,95.52,2025-05-30,2008-12-14
+Oscar Gregory,Non-binary,Grade 1,A-Diamond,Full Payment,Literature,Student Council,17279.47,3018,79.66,2026-03-28,2017-07-10
+Courtney Sanchez,Non-binary,Grade 3,B-Emerald,Installment,Computer Science,Arts Club,42993.32,1999,97.7,2026-02-14,2009-06-03
+Katie White,Male,Grade 3,B-Emerald,Late Payment,History,Varsity,32473.51,1425,78.39,2025-10-24,2019-07-14
+Lisa Mcintyre,Male,Grade 12,A-Diamond,Late Payment,Literature,Arts Club,40358.58,4572,79.91,2026-01-20,2017-02-23
+Steven Jackson,Male,Grade 7,C-Sapphire,Full Payment,Science,Student Council,15451.08,3439,81.51,2025-06-22,2011-10-06
+Luis Roberts,Female,Grade 1,C-Sapphire,Late Payment,History,None,30299.82,574,95.92,2025-09-14,2019-01-09
+Anthony Anderson,Non-binary,Grade 7,D-Ruby,Late Payment,Mathematics,Student Council,33947.01,3000,86.92,2025-06-08,2008-03-10
+Tina Bell,Male,Grade 6,A-Diamond,Late Payment,Mathematics,Glee Club,30172.45,2302,81.46,2025-12-01,2016-03-10
+Gary Black,Non-binary,Grade 11,A-Diamond,Full Payment,Mathematics,None,18804.07,2555,77.56,2025-06-25,2009-12-26
+Angela Price MD,Male,Grade 1,A-Diamond,Scholarship,Science,None,18731.04,1592,78.33,2025-10-20,2014-09-22
+Danielle Robinson,Non-binary,Grade 12,A-Diamond,Scholarship,Science,None,15837.67,3733,90.96,2025-09-18,2019-11-25
+Travis Thomas,Non-binary,Grade 6,B-Emerald,Full Payment,Computer Science,Student Council,24354.1,4948,92.15,2025-09-11,2019-03-23
+Justin Harris,Female,Grade 6,D-Ruby,Late Payment,Mathematics,None,30407.54,2672,78.02,2026-02-09,2017-05-14
+Michael Moore,Male,Grade 7,B-Emerald,Full Payment,Mathematics,None,16890.71,2969,77.31,2025-09-16,2011-03-14
+Megan Taylor,Male,Grade 11,D-Ruby,Installment,Mathematics,Varsity,38417.78,803,83.29,2025-10-23,2011-08-18
+Susan Meyers,Male,Grade 7,C-Sapphire,Installment,Mathematics,Glee Club,19515.6,3626,89.82,2026-04-01,2019-02-10
+Gregory Sutton,Male,Grade 1,B-Emerald,Scholarship,Computer Science,Varsity,31466.61,2396,92.95,2025-06-30,2014-10-21
+Natasha Thomas,Non-binary,Grade 6,D-Ruby,Late Payment,Literature,Varsity,18208.3,4385,85.52,2025-07-03,2009-12-19
+Robert Hernandez,Non-binary,Grade 7,C-Sapphire,Late Payment,Mathematics,None,41535.21,1101,96.72,2026-04-14,2009-07-29
+Kelsey Thompson,Female,Grade 6,B-Emerald,Late Payment,Literature,Arts Club,29405.4,874,93.15,2025-06-18,2007-12-22
+Kevin Williams,Non-binary,Grade 6,A-Diamond,Late Payment,Mathematics,Glee Club,38628.03,4817,77.3,2025-07-22,2016-11-12
+Rebecca Snow,Female,Grade 7,A-Diamond,Full Payment,Computer Science,Varsity,17937.54,2451,94.97,2025-06-21,2009-07-25
+Sarah Jones,Male,Grade 7,A-Diamond,Scholarship,Mathematics,None,23841.83,3989,84.9,2025-07-06,2015-07-24
+Jeremy Parker,Female,Grade 1,C-Sapphire,Scholarship,Science,Varsity,38701.37,994,97.88,2025-11-28,2018-06-25
+Michelle Howell,Male,Grade 3,C-Sapphire,Late Payment,History,None,39919.01,1145,81.54,2025-09-25,2012-06-01
+Christopher Peterson,Non-binary,Grade 6,A-Diamond,Full Payment,Mathematics,Student Council,21073.51,2699,77.2,2025-11-22,2017-05-03
+Amy Barnes,Non-binary,Grade 9,C-Sapphire,Late Payment,Mathematics,None,40054.34,4954,80.91,2025-10-22,2008-07-27
+Paul Howard,Female,Grade 9,B-Emerald,Full Payment,History,None,38433.54,1344,84.06,2025-09-05,2014-02-12
+Jeremiah Brown,Male,Grade 11,A-Diamond,Scholarship,History,Student Council,23586.33,4200,90.28,2026-01-05,2019-11-12
+Gregory Dunn,Female,Grade 6,C-Sapphire,Late Payment,Mathematics,Student Council,39417.09,2578,80.47,2025-07-24,2013-04-05
+Dr. Robert Wilson,Male,Grade 7,B-Emerald,Full Payment,Computer Science,None,44825.18,1285,75.62,2026-03-18,2015-06-02
+Austin Norris,Female,Grade 7,B-Emerald,Full Payment,History,Glee Club,18185.24,4116,95.29,2026-02-19,2013-06-15
+Brenda Thompson,Non-binary,Grade 1,D-Ruby,Full Payment,Literature,Glee Club,39901.88,781,96.14,2026-04-05,2015-01-16
+Brandy Ellis,Female,Grade 12,B-Emerald,Scholarship,Mathematics,Glee Club,39654.5,1441,77.67,2025-11-28,2008-11-26
+Rhonda Larson,Non-binary,Grade 6,A-Diamond,Installment,History,Varsity,30494.42,1691,75.84,2025-06-26,2016-05-09
+Tracy Velazquez,Female,Grade 11,B-Emerald,Late Payment,Computer Science,Arts Club,16100.6,3594,87.06,2026-02-05,2012-05-16
+Shawn Dean,Male,Grade 6,D-Ruby,Full Payment,Computer Science,Varsity,28558.99,622,78.86,2025-06-21,2017-11-11
+Christina Carroll,Male,Grade 11,D-Ruby,Full Payment,Mathematics,None,28908.93,4270,95.37,2026-04-25,2014-04-26
+Heather Weaver,Female,Grade 7,B-Emerald,Full Payment,Literature,Varsity,33935.53,2348,98.37,2026-01-25,2008-02-11
+Ashley Burns,Female,Grade 12,A-Diamond,Full Payment,Computer Science,None,35505.11,2351,88.79,2025-11-15,2012-06-28
+Alexander Torres,Male,Grade 6,D-Ruby,Installment,Mathematics,Varsity,42888.12,4806,87.56,2025-12-03,2019-08-12
+Joanna Armstrong,Male,Grade 6,B-Emerald,Scholarship,Mathematics,Arts Club,15380.13,2608,80.58,2026-02-26,2009-01-04
+Holly Nielsen,Non-binary,Grade 3,D-Ruby,Scholarship,History,Varsity,36606.17,3905,95.21,2025-08-01,2015-10-08
+Matthew Robbins Jr.,Female,Grade 3,B-Emerald,Full Payment,Literature,Student Council,35318.27,1709,90.86,2025-12-18,2018-08-30
+Jeffrey Nguyen,Non-binary,Grade 6,A-Diamond,Late Payment,Science,Varsity,21526.84,1168,96.1,2026-04-18,2013-04-20
+James Figueroa,Non-binary,Grade 7,B-Emerald,Scholarship,History,Glee Club,44639.65,1391,96.3,2025-06-14,2007-09-22
+Michelle Kim,Female,Grade 9,C-Sapphire,Installment,History,Arts Club,32813.38,3412,96.38,2025-08-11,2014-05-16
+Curtis Henry,Male,Grade 7,A-Diamond,Scholarship,Science,Arts Club,43304.22,866,84.39,2025-09-05,2013-02-20
+Sharon Roy MD,Male,Grade 6,D-Ruby,Scholarship,Literature,Arts Club,40754.88,4837,83.47,2025-06-04,2011-08-17
+Michael Chapman,Non-binary,Grade 7,B-Emerald,Scholarship,Literature,Student Council,35346.98,2955,90.74,2025-08-30,2020-02-17
+Cassie Carter,Male,Grade 1,D-Ruby,Full Payment,History,Student Council,32166.24,4739,95.5,2025-11-17,2008-03-26
+Craig Guerra,Male,Grade 9,C-Sapphire,Late Payment,Mathematics,Glee Club,24536.92,4269,98.77,2025-07-24,2018-07-17
+Matthew Rice,Non-binary,Grade 11,D-Ruby,Installment,History,Arts Club,34091.02,3304,91.56,2025-07-13,2020-01-17
+Cindy Mitchell,Non-binary,Grade 12,B-Emerald,Installment,Literature,Student Council,32776.8,756,94.77,2026-01-10,2014-07-17
+Patricia Silva,Female,Grade 1,B-Emerald,Late Payment,History,Student Council,21098.78,1590,78.16,2025-12-07,2009-07-17
+Justin Fischer,Non-binary,Grade 3,A-Diamond,Late Payment,History,None,28063.52,3747,84.14,2025-09-28,2012-07-01
+David Vazquez,Non-binary,Grade 7,D-Ruby,Scholarship,Literature,Varsity,24907.87,1033,88.33,2025-07-07,2017-10-14
+Miss Anna Horn,Female,Grade 3,D-Ruby,Installment,Mathematics,None,35773.15,1060,85.94,2026-01-30,2011-08-17
+Cody Fitzgerald,Female,Grade 11,B-Emerald,Late Payment,Computer Science,None,30134.55,2722,94.67,2026-04-05,2010-11-16
+Stacy Wood,Female,Grade 3,A-Diamond,Scholarship,Computer Science,Glee Club,44254.1,656,86.15,2025-08-06,2007-08-20
+Amber Novak,Male,Grade 6,C-Sapphire,Scholarship,Computer Science,Varsity,31958.17,511,75.35,2025-11-07,2012-04-22
+Ryan Peterson,Male,Grade 11,C-Sapphire,Installment,Literature,Varsity,16007.28,731,87.87,2026-04-17,2015-11-20
+Edward Dixon,Female,Grade 7,B-Emerald,Installment,Science,Student Council,43085.52,3858,77.42,2025-10-17,2016-12-10
+David Grant,Male,Grade 3,B-Emerald,Scholarship,History,Glee Club,30778.06,2613,88.18,2026-03-14,2014-07-02
+Joshua Valentine,Non-binary,Grade 11,C-Sapphire,Installment,Science,Varsity,18006.26,2191,87.17,2025-11-06,2018-06-03
+Danielle James,Male,Grade 6,A-Diamond,Full Payment,Mathematics,None,27204.45,1095,95.83,2025-05-23,2007-06-22
+Bryan Harris,Female,Grade 12,D-Ruby,Installment,Science,Glee Club,38384.38,642,95.95,2026-03-19,2016-12-09
+Brooke Kent,Male,Grade 6,A-Diamond,Late Payment,Science,Glee Club,32876.54,2591,90.81,2026-05-01,2017-01-03
+Steven Warner,Non-binary,Grade 9,A-Diamond,Full Payment,History,Student Council,16089.83,4167,98.15,2026-02-25,2012-06-18
+Cynthia Hopkins,Non-binary,Grade 7,D-Ruby,Full Payment,Science,Arts Club,39582.73,1082,83.98,2025-05-30,2014-10-04
+Clarence Carter,Female,Grade 7,A-Diamond,Full Payment,Literature,Student Council,42505.21,731,80.9,2025-05-15,2010-06-29
+Cristina Lawrence,Male,Grade 12,C-Sapphire,Full Payment,Science,None,16735.14,4972,94.17,2025-10-13,2008-09-04
+Tanya Hampton,Non-binary,Grade 12,C-Sapphire,Installment,Literature,None,30916.43,2800,87.34,2025-07-25,2017-05-31
+Melissa Hughes,Non-binary,Grade 9,D-Ruby,Full Payment,Computer Science,Student Council,24766.18,2153,85.76,2026-04-26,2017-12-12
+Stacy Ryan,Female,Grade 1,D-Ruby,Installment,Science,None,17234.28,1884,78.65,2026-05-04,2013-09-26
+Andrea Murphy,Non-binary,Grade 1,A-Diamond,Full Payment,Mathematics,Glee Club,41159.28,1870,78.4,2025-09-25,2011-10-06
+Martin Hunter,Female,Grade 9,C-Sapphire,Late Payment,Computer Science,Glee Club,25144.57,652,93.5,2026-01-19,2015-01-18
+Tracy Rose,Non-binary,Grade 3,C-Sapphire,Full Payment,Mathematics,Arts Club,44669.39,3826,84.4,2025-06-10,2011-10-06
+Maria Cisneros,Male,Grade 6,A-Diamond,Scholarship,Literature,None,17829.63,4328,94.69,2025-07-18,2007-11-24
+Zachary Wagner,Non-binary,Grade 9,A-Diamond,Full Payment,Literature,Arts Club,31102.33,1117,84.45,2025-08-25,2019-04-24
+Tracey Obrien,Male,Grade 3,D-Ruby,Late Payment,Mathematics,Student Council,25208.25,785,90.94,2025-08-30,2010-02-04
+Anthony Jackson,Female,Grade 1,C-Sapphire,Full Payment,Science,None,29018.41,4665,95.95,2025-10-08,2010-06-14
+Michael Bennett,Male,Grade 3,C-Sapphire,Installment,Science,Varsity,28272.65,4625,84.63,2025-10-01,2011-11-16
+Daniel Beasley,Non-binary,Grade 6,B-Emerald,Late Payment,Computer Science,Student Council,19307.5,730,83.12,2026-03-17,2007-08-15
+Christopher Pineda,Female,Grade 3,A-Diamond,Scholarship,Science,Arts Club,21219.57,4383,83.65,2026-04-20,2014-09-23
+Nathan Wolfe,Non-binary,Grade 6,D-Ruby,Late Payment,Computer Science,Varsity,21150.88,1549,75.01,2025-10-19,2008-04-23
+Alexandra Andrade,Non-binary,Grade 11,C-Sapphire,Scholarship,Literature,Arts Club,27886.57,3510,77.03,2025-12-26,2012-06-03
+Kelly Johnson,Male,Grade 7,A-Diamond,Scholarship,Computer Science,Arts Club,41629.07,2434,75.64,2025-12-21,2014-03-12
+Debbie Jensen,Male,Grade 6,A-Diamond,Late Payment,History,Glee Club,25111.35,1024,96.06,2026-01-29,2017-01-18
+Christopher Martin,Male,Grade 7,D-Ruby,Late Payment,Science,None,19179.5,905,94.43,2026-04-04,2011-02-13
+Jessica Compton,Female,Grade 3,D-Ruby,Installment,Literature,Arts Club,44753.79,1062,96.17,2025-10-11,2015-03-19
+Patricia Dominguez,Female,Grade 7,C-Sapphire,Late Payment,Literature,None,30291.77,937,85.25,2025-09-04,2013-11-14
+Timothy Ball,Male,Grade 7,B-Emerald,Scholarship,Science,Glee Club,24865.62,4921,77.49,2025-08-13,2007-06-20
+Sharon Short,Male,Grade 12,D-Ruby,Scholarship,History,Arts Club,21919.28,3259,90.43,2026-03-26,2018-06-21
+Jessica Myers,Non-binary,Grade 9,D-Ruby,Late Payment,Science,Varsity,22988.54,2140,85.89,2026-02-11,2007-08-23
+Laura Hudson,Male,Grade 7,D-Ruby,Full Payment,Computer Science,Student Council,19394.97,1521,80.78,2026-01-23,2016-02-20
+Lauren Lee,Male,Grade 11,D-Ruby,Installment,History,Student Council,34342.53,3665,75.47,2025-11-19,2013-10-27
+Linda Bowen,Female,Grade 3,D-Ruby,Late Payment,Mathematics,Arts Club,30072.35,2583,98.22,2026-04-06,2016-01-19
+Veronica Deleon,Male,Grade 12,A-Diamond,Full Payment,Mathematics,Student Council,27510.14,1080,84.35,2026-02-05,2011-01-05
+Julie Dunn,Non-binary,Grade 12,B-Emerald,Scholarship,Literature,None,38722.25,3981,98.73,2026-05-01,2014-03-31
+Sabrina Freeman,Non-binary,Grade 1,B-Emerald,Scholarship,Literature,Arts Club,35151.45,1490,84.75,2026-04-17,2019-08-08
+Jennifer Padilla,Female,Grade 3,A-Diamond,Scholarship,Science,None,24053.25,513,78.02,2025-05-18,2008-03-21
+Mr. Michael Jackson,Male,Grade 12,A-Diamond,Full Payment,Literature,None,42543.07,1054,78.17,2026-03-10,2017-11-17
+Danielle Cook,Female,Grade 1,B-Emerald,Late Payment,Computer Science,Glee Club,22756.53,4369,86.09,2025-08-03,2007-06-02
+Christopher Ross,Female,Grade 1,D-Ruby,Late Payment,Literature,Glee Club,33381.71,1460,86.26,2025-07-28,2014-02-15
+Michael Dunn,Male,Grade 12,D-Ruby,Installment,Literature,Varsity,38656.31,2639,91.32,2025-07-07,2010-10-04
+Angela Ho,Female,Grade 6,A-Diamond,Late Payment,Literature,Glee Club,41913.49,4729,79.33,2025-10-28,2010-08-04
+Victoria Butler,Female,Grade 11,B-Emerald,Late Payment,History,Glee Club,15393.41,2963,87.94,2025-11-19,2010-06-29
+Vincent Rodriguez,Male,Grade 1,B-Emerald,Late Payment,Computer Science,Varsity,35160.84,4505,83.71,2025-06-25,2007-06-12
+Amy Johnson,Female,Grade 12,C-Sapphire,Installment,Mathematics,Student Council,36088.26,890,89.11,2025-07-24,2009-11-27
+Jacqueline Robinson,Male,Grade 9,B-Emerald,Scholarship,Literature,Student Council,16801.71,2968,92.57,2025-05-08,2017-02-03
+Sara Garcia,Non-binary,Grade 12,A-Diamond,Installment,Science,Varsity,20505.16,3251,77.9,2026-04-15,2014-03-02
+Anthony Le,Non-binary,Grade 1,D-Ruby,Full Payment,History,Varsity,30673.91,3095,93.8,2025-05-07,2013-04-10
+Joshua Smith,Non-binary,Grade 9,C-Sapphire,Full Payment,Science,Student Council,19958.56,562,81.52,2025-10-13,2019-08-21
+Amber Martin,Non-binary,Grade 9,D-Ruby,Installment,Mathematics,Student Council,36369.3,3770,94.18,2025-09-02,2020-03-30
+William Brown,Female,Grade 12,D-Ruby,Scholarship,Computer Science,Student Council,21002.7,645,79.02,2025-10-10,2013-05-27
+Makayla Clayton,Female,Grade 1,A-Diamond,Full Payment,Literature,Glee Club,33201.87,1281,83.2,2025-11-01,2016-07-13
+Sarah Nash,Non-binary,Grade 3,C-Sapphire,Full Payment,History,Arts Club,19071.55,3805,78.7,2025-08-05,2015-08-22
+Eric Reed,Non-binary,Grade 3,C-Sapphire,Scholarship,Science,None,42030.46,753,96.24,2026-02-24,2015-03-07
+Valerie Phillips,Female,Grade 7,A-Diamond,Installment,Mathematics,Student Council,43789.97,1413,92.95,2025-06-21,2012-06-15
+Jason Conrad,Female,Grade 3,D-Ruby,Full Payment,Science,None,32273.12,2614,97.88,2026-01-12,2016-04-08
+Melinda Gibson,Male,Grade 1,D-Ruby,Late Payment,Mathematics,None,34353.61,1124,88.79,2026-03-11,2013-12-22
+Regina Green,Non-binary,Grade 7,B-Emerald,Installment,Literature,Varsity,41585.88,668,76.47,2025-10-17,2015-11-22
+Kyle Clark,Non-binary,Grade 7,D-Ruby,Full Payment,Literature,Varsity,39990.52,3467,93.54,2025-07-25,2019-04-15
+Julie Norton,Non-binary,Grade 3,A-Diamond,Full Payment,Mathematics,None,26173.57,2429,89.56,2025-06-15,2013-03-19
+Jeff Lopez,Non-binary,Grade 7,A-Diamond,Installment,Mathematics,Varsity,44940.1,3770,87.11,2026-01-02,2019-09-26
+Heidi Morris,Female,Grade 1,A-Diamond,Late Payment,Computer Science,Varsity,15418.4,3837,83.12,2025-09-23,2015-07-29
+Cathy Stevenson,Non-binary,Grade 12,B-Emerald,Full Payment,Literature,Student Council,43587.25,4995,77.47,2025-11-16,2013-08-14
+Debra Ryan,Female,Grade 7,D-Ruby,Scholarship,Literature,None,29698.85,4614,78.72,2026-04-08,2008-01-25
+Sabrina Rivera,Female,Grade 11,D-Ruby,Scholarship,Mathematics,Student Council,28934.06,1737,93.81,2026-04-15,2013-01-13
+Xavier Hart,Male,Grade 3,C-Sapphire,Full Payment,History,Varsity,39806.46,1413,76.67,2025-05-20,2013-11-30
+Adam Sanchez,Female,Grade 1,C-Sapphire,Scholarship,Science,Glee Club,19245.74,2976,81.92,2025-12-07,2013-05-22
+George Mendez,Non-binary,Grade 7,D-Ruby,Full Payment,Mathematics,None,28987.44,779,81.75,2026-02-19,2018-05-13
+Jennifer Jimenez,Male,Grade 6,B-Emerald,Full Payment,Literature,Student Council,31333.81,3572,78.52,2025-07-12,2011-01-04
+Meghan Contreras,Non-binary,Grade 6,B-Emerald,Scholarship,Computer Science,Arts Club,16563.02,2429,86.97,2025-12-01,2010-03-12
+Julie Perry,Non-binary,Grade 11,C-Sapphire,Full Payment,Literature,Varsity,42211.2,1081,80.58,2025-06-03,2015-03-04
+Melissa Barker,Non-binary,Grade 11,D-Ruby,Installment,Science,Student Council,29072.27,4525,83.94,2025-11-06,2018-05-06
+Albert Mejia,Male,Grade 11,B-Emerald,Scholarship,History,None,21037.9,4140,87.5,2026-01-31,2016-04-19
+Julie Alvarez,Male,Grade 7,D-Ruby,Scholarship,Literature,Student Council,39246.56,844,83.82,2025-10-30,2015-02-08
+Devin Hill,Non-binary,Grade 12,D-Ruby,Scholarship,History,None,25479.2,3888,81.66,2025-06-08,2016-12-11
+Stephanie Santiago,Female,Grade 12,D-Ruby,Scholarship,Mathematics,None,43263.62,3531,82.53,2025-05-10,2010-04-07
+Jon Gordon,Male,Grade 1,A-Diamond,Installment,Computer Science,Varsity,29646.23,1259,87.84,2026-02-10,2016-11-16
+James Pierce,Non-binary,Grade 9,B-Emerald,Late Payment,Science,Glee Club,40164.87,4272,93.96,2025-09-11,2007-05-29
+Jackie Cole,Non-binary,Grade 7,C-Sapphire,Full Payment,Literature,None,17287.33,2348,92.86,2025-11-13,2015-08-19
+Stephen Chavez,Male,Grade 12,D-Ruby,Full Payment,Science,Arts Club,25710.36,2043,83.96,2025-05-13,2015-08-16
+Jerome Martinez,Female,Grade 1,D-Ruby,Scholarship,History,Glee Club,36103.69,989,79.73,2025-12-14,2011-08-07
+Christian Martinez,Female,Grade 1,A-Diamond,Late Payment,Literature,Glee Club,34127.43,4751,98.77,2025-12-09,2009-03-26
+Chad Perry,Female,Grade 1,B-Emerald,Late Payment,History,Varsity,38969.65,3141,85.05,2025-11-27,2016-03-17
+Brian Jenkins,Male,Grade 1,D-Ruby,Late Payment,Science,Glee Club,37494.33,3694,84.77,2025-10-11,2013-01-10
+John Lester,Female,Grade 6,D-Ruby,Installment,Computer Science,Glee Club,28236.74,1727,80.51,2026-02-23,2010-01-18
+Michael Hernandez,Non-binary,Grade 7,B-Emerald,Installment,Science,Varsity,42575.84,3840,84.45,2025-12-29,2016-10-11
+Rebecca Reilly,Non-binary,Grade 3,A-Diamond,Scholarship,Mathematics,Glee Club,25821.1,3500,86.79,2025-12-25,2007-05-22
+Jennifer Rodriguez,Non-binary,Grade 7,D-Ruby,Scholarship,Science,Glee Club,23745.91,1535,88.03,2026-01-15,2009-03-10
+Philip Gross,Male,Grade 12,A-Diamond,Full Payment,Computer Science,None,25738.58,936,98.78,2025-06-12,2017-07-12
+Thomas Rodriguez,Male,Grade 7,C-Sapphire,Installment,History,Arts Club,42834.81,972,86.87,2026-04-19,2013-07-05
+John Berry,Non-binary,Grade 1,D-Ruby,Installment,Science,Varsity,29047.07,4058,94.95,2026-03-19,2011-01-14
+Danielle Myers,Male,Grade 9,D-Ruby,Scholarship,Science,Arts Club,42075.66,1270,75.68,2025-07-30,2018-12-12
+Kenneth Howell,Non-binary,Grade 11,B-Emerald,Full Payment,Mathematics,Student Council,41549.55,1155,89.65,2025-12-07,2010-12-31
+Donald Evans,Male,Grade 9,B-Emerald,Full Payment,Computer Science,Arts Club,22259.83,1248,89.79,2026-01-11,2011-05-25
+Stacey Jackson,Non-binary,Grade 11,D-Ruby,Full Payment,Mathematics,Varsity,24698.07,1826,87.63,2025-10-17,2012-01-18
+Anne Smith,Male,Grade 11,D-Ruby,Scholarship,Science,Arts Club,26617.43,2577,87.74,2026-05-03,2008-08-25
+Chad Best,Male,Grade 11,B-Emerald,Late Payment,Literature,Student Council,29848.65,531,85.26,2025-07-15,2017-10-30
+Brian Mason,Non-binary,Grade 3,D-Ruby,Installment,Computer Science,Student Council,19414.87,688,95.79,2026-03-12,2008-02-13
+Lisa Stephens,Male,Grade 7,D-Ruby,Late Payment,Literature,None,21946.9,3979,87.09,2025-10-12,2020-04-17
+Michael Wilson,Non-binary,Grade 3,A-Diamond,Late Payment,Mathematics,Varsity,23227.51,663,92.92,2025-10-29,2007-08-27
+Ashlee Edwards,Female,Grade 1,D-Ruby,Scholarship,Mathematics,Arts Club,21160.65,2217,88.7,2025-11-27,2020-04-15
+Maria Casey,Female,Grade 1,A-Diamond,Late Payment,Mathematics,None,16923.44,2688,89.61,2025-06-07,2007-08-07
+Andrew Parker,Female,Grade 3,B-Emerald,Full Payment,History,Student Council,43002.21,2652,76.07,2025-11-24,2011-01-20
+Grant Robinson,Non-binary,Grade 1,A-Diamond,Late Payment,Computer Science,Student Council,22477.98,1428,77.17,2025-10-24,2019-01-12
+Christopher Montoya,Male,Grade 1,C-Sapphire,Installment,History,Student Council,37345.56,4137,79.67,2025-07-22,2018-02-22
+Jonathan Jackson,Male,Grade 7,D-Ruby,Late Payment,Computer Science,Varsity,34297.25,2004,84.56,2026-03-20,2012-08-20
+Christian Swanson,Female,Grade 7,A-Diamond,Scholarship,Literature,None,21484.31,2240,90.99,2025-06-01,2009-04-08
+Marcus Holt,Male,Grade 7,D-Ruby,Scholarship,Mathematics,Glee Club,19605.22,1980,76.14,2025-11-29,2015-08-20
+Kathy Malone,Male,Grade 12,B-Emerald,Full Payment,History,Glee Club,41214.77,2138,85.14,2026-01-25,2012-10-09
+Raymond Moore,Non-binary,Grade 7,A-Diamond,Scholarship,Literature,Student Council,15406.36,1648,89.6,2025-09-10,2007-07-14
+Jeffrey Lozano,Female,Grade 9,A-Diamond,Late Payment,Literature,Student Council,21101.71,3851,82.38,2025-06-22,2010-10-29
+David Lucas,Male,Grade 1,D-Ruby,Installment,Computer Science,Student Council,23229.57,3750,77.51,2025-10-05,2012-06-03
+Jonathan Johnson,Male,Grade 1,B-Emerald,Late Payment,Computer Science,Student Council,26483.3,990,98.86,2026-02-15,2018-07-16
+Katherine Harris,Male,Grade 9,B-Emerald,Scholarship,History,Glee Club,36842.05,824,86.07,2026-01-09,2010-03-01
+Thomas Thomas,Female,Grade 12,C-Sapphire,Scholarship,History,None,15744.27,830,95.46,2026-02-12,2017-05-08
+Erica Harrington,Male,Grade 1,A-Diamond,Full Payment,Computer Science,Student Council,41504.43,1826,92.6,2026-02-10,2009-07-18
+Daniel Mccoy,Non-binary,Grade 12,B-Emerald,Full Payment,Science,Arts Club,21419.15,3753,81.94,2026-04-06,2014-10-02
+Victoria House,Male,Grade 11,A-Diamond,Installment,Literature,Varsity,30028.37,1596,90.4,2025-11-13,2020-04-01
+Casey Medina,Non-binary,Grade 3,A-Diamond,Scholarship,Literature,None,35272.35,668,86.63,2025-09-13,2010-10-31
+William Morris,Male,Grade 3,B-Emerald,Scholarship,Literature,Arts Club,32911.83,4312,85.65,2025-12-25,2016-11-09
+Courtney Thompson,Male,Grade 1,B-Emerald,Full Payment,History,Student Council,15578.95,3994,94.3,2025-12-05,2011-09-04
+Carol Pugh,Female,Grade 12,C-Sapphire,Late Payment,Literature,Glee Club,37161.24,4320,75.84,2026-02-14,2017-10-28
+Corey Caldwell,Female,Grade 11,C-Sapphire,Late Payment,Literature,None,29485.48,849,84.08,2026-01-27,2009-05-13
+Justin Jackson Jr.,Male,Grade 9,A-Diamond,Installment,Literature,Student Council,30394.41,4570,91.91,2025-09-03,2008-08-02
+Adam Henderson,Male,Grade 7,C-Sapphire,Scholarship,Science,Glee Club,34029.06,1978,91.65,2025-08-03,2016-12-22
+Gerald Rivera,Female,Grade 9,A-Diamond,Late Payment,Mathematics,Student Council,34112.01,624,78.15,2025-09-21,2017-03-11
+Nathan Henry,Male,Grade 3,A-Diamond,Installment,Mathematics,None,40698.59,1848,80.41,2025-08-04,2018-11-16
+Brian Garrison,Female,Grade 3,A-Diamond,Scholarship,Literature,Glee Club,19358.51,3873,95.22,2026-04-16,2013-12-13
+Dean Smith,Female,Grade 9,B-Emerald,Installment,Mathematics,Arts Club,31511.84,1211,96.58,2026-03-04,2009-02-27
+Carolyn Green,Male,Grade 9,B-Emerald,Late Payment,Science,Arts Club,16324.28,3847,94.41,2025-05-23,2014-01-04
+Brian Burke,Male,Grade 9,C-Sapphire,Late Payment,Computer Science,Varsity,39717.78,4964,78.19,2025-06-19,2013-05-16
+Mariah Andrade,Male,Grade 1,C-Sapphire,Full Payment,Mathematics,Glee Club,26806.14,2565,97.98,2025-06-02,2016-06-08
+Robert Calhoun,Male,Grade 9,A-Diamond,Installment,Science,Varsity,39536.05,3224,94.73,2026-01-15,2018-11-02
+Melissa Padilla,Non-binary,Grade 3,A-Diamond,Scholarship,Science,Student Council,22416.84,2819,97.13,2025-12-19,2008-02-15
+Jennifer Bailey,Female,Grade 1,A-Diamond,Full Payment,Literature,Glee Club,42004.71,2088,93.41,2025-11-23,2012-09-13
+Shane Ferguson,Non-binary,Grade 7,A-Diamond,Late Payment,Science,Varsity,33924.64,1904,76.92,2025-10-31,2012-04-08
+Steven Mitchell,Female,Grade 9,B-Emerald,Full Payment,Mathematics,Glee Club,32456.69,4504,76.45,2025-12-12,2007-07-08
+Jenna Moreno,Non-binary,Grade 6,C-Sapphire,Late Payment,Science,Varsity,25172.02,2065,98.36,2025-09-06,2018-01-26
+Andrew Collier,Non-binary,Grade 6,B-Emerald,Installment,Computer Science,Varsity,43561.23,2831,96.81,2025-10-08,2017-02-20
+Melissa Jimenez,Female,Grade 9,B-Emerald,Scholarship,Science,Student Council,16017.75,4733,94.46,2025-09-19,2014-11-27
+Timothy Richardson,Male,Grade 1,A-Diamond,Scholarship,Literature,Varsity,18773.02,1655,89.02,2026-04-22,2017-03-23
+Charles Maxwell,Non-binary,Grade 6,D-Ruby,Scholarship,History,Varsity,40700.64,2212,89.58,2025-05-27,2014-05-27
+Allison Villegas,Non-binary,Grade 12,A-Diamond,Installment,Computer Science,Glee Club,19156.62,849,91.88,2025-09-01,2017-08-28
+Nancy Lin,Non-binary,Grade 1,D-Ruby,Scholarship,Science,Arts Club,31128.25,4968,86.86,2026-01-25,2010-01-28
+Yolanda Salazar,Male,Grade 12,C-Sapphire,Installment,Mathematics,None,19021.95,911,96.12,2026-04-10,2016-08-31
+Alice Johnson,Female,Grade 7,A-Diamond,Scholarship,Mathematics,Student Council,35728.13,4827,80.6,2026-01-02,2014-01-04
+Michael Shaw,Non-binary,Grade 7,D-Ruby,Installment,Literature,Arts Club,15132.57,998,96.79,2025-11-06,2008-05-17
+Erin Gomez,Female,Grade 11,B-Emerald,Full Payment,History,Glee Club,34666.01,3844,94.71,2025-08-11,2009-09-11
+Sheryl Jones,Male,Grade 11,A-Diamond,Scholarship,Literature,Student Council,35510.55,4258,96.85,2025-07-02,2014-02-12
+Jeremy Weber,Non-binary,Grade 3,A-Diamond,Full Payment,History,Glee Club,25482.9,1095,78.02,2026-03-31,2010-04-08
+George Jackson,Male,Grade 12,B-Emerald,Full Payment,Computer Science,Arts Club,26393.59,3608,86.95,2026-01-26,2008-05-18
+Nicole Jones,Male,Grade 9,B-Emerald,Full Payment,Literature,Glee Club,15761.55,851,76.3,2026-02-11,2008-10-17
+Thomas Parker,Female,Grade 9,D-Ruby,Full Payment,Computer Science,Varsity,36814.7,1898,94.89,2025-06-18,2016-01-21
+Bailey Gross,Male,Grade 1,B-Emerald,Full Payment,Literature,Arts Club,40396.59,2371,80.02,2025-09-27,2013-05-19
+John Smith,Female,Grade 6,D-Ruby,Late Payment,Science,Student Council,36522.25,1184,82.87,2025-06-30,2015-09-02
+Annette Johnson,Female,Grade 6,B-Emerald,Scholarship,Mathematics,Varsity,44252.82,2746,94.01,2026-02-06,2015-11-01
+Thomas Barber,Female,Grade 6,A-Diamond,Scholarship,History,None,41794.9,1671,86.39,2025-11-16,2019-11-19
+Aaron Mccall,Male,Grade 12,D-Ruby,Full Payment,Literature,Student Council,24993.58,2230,85.94,2026-02-27,2011-02-10
+Brianna Howell,Non-binary,Grade 12,C-Sapphire,Full Payment,History,None,23942.64,4865,90.75,2025-05-10,2009-02-13
+Grant Weber,Male,Grade 12,C-Sapphire,Installment,Literature,Varsity,18204.02,2239,79.82,2025-10-24,2012-05-02
+Sarah Douglas,Female,Grade 12,A-Diamond,Late Payment,Science,Varsity,39431.57,3413,93.57,2025-05-20,2011-03-24
+Tiffany Park,Non-binary,Grade 1,C-Sapphire,Scholarship,Science,Arts Club,17410.87,4159,98.15,2026-04-10,2010-05-29
+David Cole,Male,Grade 6,A-Diamond,Full Payment,Mathematics,Arts Club,42663.18,4728,80.88,2025-08-09,2016-08-04
+Laura Nguyen,Female,Grade 6,D-Ruby,Full Payment,History,Varsity,39617.5,4223,86.76,2025-09-24,2017-11-07
+Terry Moore,Male,Grade 12,B-Emerald,Full Payment,Science,Glee Club,39023.15,4225,87.61,2025-05-14,2018-06-01
+Joshua Park,Female,Grade 9,C-Sapphire,Full Payment,Computer Science,Varsity,21082.44,3372,85.36,2026-03-30,2017-03-13
+Alexander Matthews,Non-binary,Grade 3,A-Diamond,Late Payment,History,Student Council,44400.94,3669,80.08,2025-12-02,2016-02-25
+William Mckenzie,Male,Grade 1,D-Ruby,Late Payment,Computer Science,Varsity,41608.07,3733,86.71,2025-05-30,2013-06-11
+Jennifer Moore,Non-binary,Grade 1,B-Emerald,Full Payment,Mathematics,Student Council,29016.11,4857,78.86,2026-02-28,2020-03-16
+Courtney Colon,Male,Grade 9,A-Diamond,Installment,Literature,None,41954.2,2521,90.38,2025-09-23,2012-04-25
+Cameron Campbell,Male,Grade 11,B-Emerald,Installment,Mathematics,Student Council,44866.48,1684,98.89,2025-05-28,2017-05-21
+Anthony Campbell,Female,Grade 1,A-Diamond,Late Payment,Computer Science,Varsity,31948.07,653,82.84,2025-09-04,2010-05-09
+Ann Martin,Female,Grade 12,B-Emerald,Scholarship,Science,Student Council,41424.35,3134,80.62,2025-11-01,2007-07-24
+Nancy Hunter,Non-binary,Grade 7,C-Sapphire,Full Payment,Science,Student Council,36796.62,4594,90.78,2026-01-03,2016-06-13
+Jade Lewis,Non-binary,Grade 6,B-Emerald,Scholarship,Science,Student Council,25678.71,4542,82.14,2025-08-27,2016-09-26
+Michael Morris,Female,Grade 11,B-Emerald,Full Payment,Literature,None,41591.82,1175,81.41,2025-11-28,2012-08-15
+Brandi Rose,Female,Grade 3,C-Sapphire,Full Payment,Literature,Student Council,26948.96,4239,93.39,2025-11-16,2018-02-04
+Matthew Hardin,Non-binary,Grade 1,A-Diamond,Scholarship,Literature,Student Council,36029.17,1037,85.9,2025-09-16,2015-07-07
+Stephen Gonzalez,Non-binary,Grade 11,D-Ruby,Installment,Computer Science,Student Council,23403.6,2236,86.77,2026-04-08,2020-01-22
+Aaron Hubbard,Female,Grade 6,D-Ruby,Full Payment,History,Glee Club,29132.62,2987,96.93,2026-04-16,2010-03-19
+Derek Howard,Male,Grade 3,D-Ruby,Installment,Literature,Glee Club,21193.8,4366,87.91,2025-11-07,2015-04-12
+Cole Watkins,Non-binary,Grade 3,A-Diamond,Full Payment,History,Glee Club,34433.56,889,82.79,2026-01-20,2019-06-25
+Dr. Stefanie Jacobson,Non-binary,Grade 1,D-Ruby,Full Payment,Computer Science,None,31052.55,1613,80.55,2025-05-25,2016-08-12
+Mark Shepard,Male,Grade 9,D-Ruby,Late Payment,Computer Science,Glee Club,32401.48,2072,79.91,2026-02-22,2014-08-22
+Logan Stevens,Female,Grade 3,C-Sapphire,Late Payment,History,Glee Club,20504.55,2641,78.63,2025-08-28,2019-09-18
+Lauren Carter,Female,Grade 12,D-Ruby,Late Payment,Computer Science,Varsity,36389.29,3932,98.25,2025-10-14,2009-03-14
+Amanda Walsh,Non-binary,Grade 9,B-Emerald,Scholarship,Literature,Glee Club,23403.97,510,84.96,2025-10-16,2013-11-04
+Adrienne Vance,Male,Grade 9,B-Emerald,Late Payment,Mathematics,None,24406.41,2399,98.65,2026-02-01,2009-04-21
+Annette Bradley,Female,Grade 11,B-Emerald,Full Payment,Computer Science,Arts Club,31626.28,4504,77.52,2025-06-27,2019-04-04
+Jason Hester,Male,Grade 11,D-Ruby,Late Payment,Computer Science,None,15781.71,4349,77.51,2026-01-07,2009-04-08
+Rebecca Dawson,Female,Grade 11,D-Ruby,Installment,Literature,Glee Club,21094.1,3822,92.83,2026-01-02,2014-05-13
+Kenneth Mcgee,Male,Grade 7,B-Emerald,Scholarship,Computer Science,Glee Club,21106.53,4575,84.16,2026-02-04,2010-07-18
+Joseph Phillips,Female,Grade 7,A-Diamond,Installment,Mathematics,None,36769.26,2122,89.34,2025-08-30,2011-09-08
+Mitchell Bird,Non-binary,Grade 7,A-Diamond,Late Payment,History,Arts Club,17276.66,2472,85.61,2025-05-29,2017-09-14
+James Day,Female,Grade 11,D-Ruby,Scholarship,Computer Science,Student Council,27841.73,4203,92.14,2025-11-25,2010-01-29
+James Miller,Non-binary,Grade 6,A-Diamond,Full Payment,History,None,37787.8,3281,97.54,2025-11-25,2017-09-09
+Billy Hartman,Female,Grade 9,B-Emerald,Late Payment,Literature,Student Council,40677.78,2517,86.13,2026-01-18,2012-03-09
+Debra Gibson,Female,Grade 7,B-Emerald,Installment,Science,Arts Club,25178.32,2406,75.15,2026-02-08,2016-03-01
+Julie Daniels,Non-binary,Grade 11,B-Emerald,Late Payment,Science,None,26530.77,3966,87.25,2025-05-30,2017-04-30
+Eric Bailey,Female,Grade 1,B-Emerald,Scholarship,History,Glee Club,35112.14,2789,90.22,2025-10-06,2012-07-13
+Amanda Smith,Non-binary,Grade 12,D-Ruby,Scholarship,Literature,None,32013.83,2781,86.82,2025-07-02,2008-04-10
+Linda Smith,Male,Grade 1,A-Diamond,Late Payment,Mathematics,Student Council,19282.85,538,88.05,2025-08-24,2010-07-21
+Mark Campbell,Male,Grade 3,B-Emerald,Late Payment,Computer Science,Arts Club,19904.54,3338,96.77,2025-07-16,2013-03-06
+Heather Oconnell,Male,Grade 7,A-Diamond,Installment,Mathematics,Student Council,33098.59,4529,98.3,2025-09-22,2010-08-20
+Brenda Thompson,Non-binary,Grade 1,C-Sapphire,Full Payment,History,Glee Club,43399.32,4191,89.73,2026-04-26,2012-03-11
+Charles Ferguson,Female,Grade 1,A-Diamond,Installment,Literature,None,15286.72,4047,79.97,2025-10-18,2008-08-30
+Cheryl Carter,Male,Grade 7,D-Ruby,Installment,Computer Science,Glee Club,33438.42,1206,82.66,2026-01-30,2016-04-13
+Scott Grimes,Male,Grade 7,C-Sapphire,Installment,History,Glee Club,38873.35,2158,94.52,2025-12-27,2016-01-02
+Darrell Cervantes,Male,Grade 7,B-Emerald,Late Payment,Science,Student Council,32841.78,1972,87.52,2025-12-08,2009-04-24
+Christopher Holland,Female,Grade 3,A-Diamond,Late Payment,Mathematics,Arts Club,15048.55,4333,80.53,2025-10-19,2012-06-07
+Vincent Ruiz,Non-binary,Grade 11,D-Ruby,Late Payment,History,Arts Club,16340.66,4029,75.08,2026-04-08,2007-05-31
+Tracy Wright,Non-binary,Grade 11,A-Diamond,Late Payment,Literature,Student Council,30699.2,1369,93.59,2025-07-16,2019-09-28
+Nicholas Martinez,Male,Grade 11,A-Diamond,Full Payment,Science,Arts Club,20410.64,1432,85.56,2025-06-27,2017-03-23
+Tamara Berg,Male,Grade 11,C-Sapphire,Scholarship,Computer Science,Glee Club,26338.31,3212,77.52,2026-01-10,2017-10-14
+Kathryn Kennedy,Female,Grade 3,D-Ruby,Late Payment,Literature,Varsity,16560.55,3020,97.87,2026-01-18,2008-09-18
+Stacey Brady,Non-binary,Grade 6,D-Ruby,Late Payment,Literature,Varsity,18377.31,1758,91.22,2025-07-28,2011-09-21
+Samantha Lewis,Female,Grade 6,D-Ruby,Scholarship,Literature,Varsity,21323.67,4078,89.38,2026-04-06,2019-10-03
+Donna Patel,Non-binary,Grade 7,D-Ruby,Scholarship,Computer Science,Arts Club,24792.76,566,75.33,2025-10-04,2018-03-07
+Peter Morgan,Non-binary,Grade 3,C-Sapphire,Full Payment,Computer Science,Student Council,33516.68,3568,86.26,2025-07-27,2008-09-03
+Shirley Garza,Female,Grade 12,C-Sapphire,Full Payment,History,Varsity,41992.05,620,94.29,2025-10-12,2017-07-26
+Michelle Santos,Male,Grade 12,A-Diamond,Late Payment,Mathematics,Varsity,44657.21,4231,95.07,2026-03-08,2013-06-06
+Robert Patton,Male,Grade 7,A-Diamond,Full Payment,Literature,Student Council,32373.53,1324,91.1,2025-05-18,2013-11-16
+Judith Jones,Male,Grade 1,D-Ruby,Late Payment,Computer Science,None,39192.64,2854,80.62,2026-05-04,2019-09-26
+Tara Salinas,Non-binary,Grade 6,D-Ruby,Installment,Science,Varsity,32678.89,1582,81.48,2025-12-28,2013-07-03
+Marissa Jones,Male,Grade 3,B-Emerald,Late Payment,Mathematics,Student Council,22213.64,2660,97.14,2025-12-18,2014-04-20
+Brittney Hutchinson,Male,Grade 7,B-Emerald,Full Payment,History,Student Council,29670.69,1694,79.16,2026-01-24,2009-01-12
+Roy Torres,Non-binary,Grade 6,C-Sapphire,Installment,Computer Science,Arts Club,32111.21,2823,90.18,2025-08-31,2012-07-02
+Mackenzie Williams,Male,Grade 1,C-Sapphire,Late Payment,Science,None,17538.82,3009,79.55,2025-12-20,2011-12-11
+Michael Martin,Non-binary,Grade 3,D-Ruby,Installment,Mathematics,Student Council,42978.27,4884,82.96,2025-08-23,2010-08-18
+Ruben Phelps,Non-binary,Grade 12,A-Diamond,Installment,Literature,Varsity,29427.41,2905,77.81,2026-01-22,2008-06-13
+Andrew Cantrell,Non-binary,Grade 9,C-Sapphire,Late Payment,Mathematics,Varsity,30906.21,619,94.6,2025-07-13,2011-11-01
+Laura White,Male,Grade 11,C-Sapphire,Installment,Computer Science,Student Council,43592.35,3649,77.03,2026-04-21,2012-09-17
+Linda Russell,Female,Grade 1,C-Sapphire,Full Payment,Computer Science,Student Council,18897.33,3992,83.68,2026-04-10,2014-09-07
+Natasha Evans,Female,Grade 12,B-Emerald,Full Payment,History,Varsity,30962.46,1054,91.37,2025-11-22,2011-01-26
+Amy Washington,Female,Grade 1,C-Sapphire,Scholarship,Computer Science,Arts Club,25470.01,4404,87.51,2025-09-03,2015-01-21
+Richard Hill DDS,Male,Grade 9,B-Emerald,Full Payment,Science,Student Council,34748.75,1107,86.85,2025-11-11,2008-01-10
+Christopher Burke,Non-binary,Grade 1,C-Sapphire,Scholarship,History,Glee Club,17367.97,1001,79.91,2025-09-22,2013-10-04
+Jacqueline Perez,Female,Grade 6,C-Sapphire,Late Payment,History,Student Council,41454.93,4829,77.58,2026-04-11,2014-07-30
+Gregory Colon,Female,Grade 7,B-Emerald,Late Payment,Mathematics,Arts Club,18804.81,4074,81.01,2025-10-03,2012-06-17
+Justin Smith,Non-binary,Grade 7,D-Ruby,Installment,Literature,Glee Club,22633.95,814,97.55,2025-08-05,2014-02-22
+Donna Herman,Non-binary,Grade 1,D-Ruby,Full Payment,History,Arts Club,39048.65,3553,87.57,2025-09-12,2017-11-21
+Tracey Smith,Non-binary,Grade 3,A-Diamond,Installment,Computer Science,Varsity,36107.41,4219,96.5,2026-04-20,2011-03-23
+Crystal Norris DDS,Male,Grade 3,C-Sapphire,Late Payment,Science,None,31914.56,589,75.91,2026-02-19,2018-01-25
+Kimberly Lee,Non-binary,Grade 9,B-Emerald,Full Payment,Mathematics,Arts Club,41487.73,4843,77.94,2025-06-03,2009-04-22
+Michael Hansen,Non-binary,Grade 3,C-Sapphire,Scholarship,Literature,Glee Club,27561.41,3208,87.36,2025-07-13,2010-04-18
+Nicole Martinez,Female,Grade 7,B-Emerald,Installment,Science,Student Council,42331.98,984,95.85,2025-09-25,2016-06-28
+Steven Carter,Female,Grade 6,D-Ruby,Late Payment,Literature,Varsity,27189.96,2850,82.1,2025-05-10,2014-02-15
+Brian Martin,Male,Grade 12,C-Sapphire,Installment,Mathematics,Varsity,34942.86,4670,95.44,2026-02-11,2010-01-17
+Brian Arroyo,Female,Grade 7,C-Sapphire,Late Payment,History,Student Council,21056.69,4686,97.69,2025-09-21,2012-11-18
+Timothy Carey,Female,Grade 9,A-Diamond,Installment,History,Arts Club,16622.85,2814,77.78,2025-11-27,2011-12-09
+Douglas Johnston,Female,Grade 1,D-Ruby,Full Payment,History,Glee Club,25653.62,4604,84.06,2025-09-06,2015-12-03
+Michael Scott,Non-binary,Grade 11,B-Emerald,Late Payment,Science,None,21796.11,2280,79.86,2025-07-18,2015-09-28
+Brandi Waters,Male,Grade 7,C-Sapphire,Installment,Literature,Student Council,25305.73,4839,77.42,2025-06-26,2014-12-31
+Jeffrey Acosta,Non-binary,Grade 1,C-Sapphire,Scholarship,Literature,Student Council,38359.95,3244,87.56,2025-06-24,2019-12-26
+Jennifer Obrien,Non-binary,Grade 6,B-Emerald,Full Payment,Computer Science,Glee Club,29152.96,1121,87.6,2025-07-21,2020-02-26
+Adam Silva,Non-binary,Grade 6,D-Ruby,Full Payment,History,Varsity,34582.57,1458,97.24,2025-05-22,2012-07-01
+Eric Webster,Male,Grade 11,D-Ruby,Installment,History,Glee Club,32370.38,2375,84.84,2026-01-24,2012-10-14
+Kathleen Dunn,Male,Grade 6,A-Diamond,Scholarship,History,Glee Club,37326.21,1056,78.69,2025-10-06,2016-08-03
+Denise Weeks,Female,Grade 3,C-Sapphire,Full Payment,Literature,Glee Club,15360.69,521,80.82,2025-06-10,2017-12-16
+Lori Williams,Male,Grade 12,A-Diamond,Full Payment,Mathematics,Arts Club,35871.11,1834,79.91,2026-02-23,2011-05-19
+Kelsey Solis,Non-binary,Grade 3,A-Diamond,Full Payment,Science,Arts Club,20198.94,3649,90.21,2026-02-25,2020-01-22
+Cassandra Morris,Non-binary,Grade 6,A-Diamond,Installment,Mathematics,Arts Club,23962.07,1940,83.34,2026-03-19,2020-04-21
+Angelica Lewis,Male,Grade 9,D-Ruby,Scholarship,Literature,Glee Club,21556.15,643,87.98,2025-07-26,2020-04-23
+Carla Miller,Non-binary,Grade 7,B-Emerald,Late Payment,Literature,Arts Club,24682.06,889,97.37,2025-08-07,2012-09-04
+Eric Marshall,Non-binary,Grade 11,A-Diamond,Installment,Literature,Arts Club,38319.84,3195,97.3,2025-08-01,2011-09-08
+Dan Oneill,Female,Grade 3,B-Emerald,Late Payment,Literature,None,29662.22,2931,90.37,2025-07-05,2018-02-10
+Brandon Ellis,Non-binary,Grade 3,C-Sapphire,Installment,Mathematics,Student Council,23916.54,1370,84.51,2025-12-11,2017-01-03
+Joseph Charles,Male,Grade 3,A-Diamond,Scholarship,History,Glee Club,22734.95,971,95.56,2025-12-10,2014-02-25
+Robert Ruiz,Non-binary,Grade 3,C-Sapphire,Scholarship,History,Varsity,16250.44,1319,90.94,2025-08-04,2017-09-30
+Mrs. Theresa Jones,Non-binary,Grade 1,C-Sapphire,Full Payment,Mathematics,Varsity,21162.32,1993,80.67,2025-12-25,2012-10-17
+Christopher Harris,Non-binary,Grade 7,D-Ruby,Installment,Literature,None,23631.51,4772,98.63,2025-08-14,2016-07-28
+Billy Newman,Male,Grade 6,D-Ruby,Scholarship,Computer Science,Student Council,33448.67,1018,94.64,2025-12-18,2010-03-28
+Matthew Wilson,Non-binary,Grade 6,C-Sapphire,Late Payment,History,Arts Club,35223.69,3889,76.77,2025-05-27,2013-07-11
+Victor Holloway,Female,Grade 9,B-Emerald,Full Payment,History,Student Council,34423.8,1205,88.48,2025-09-28,2011-06-23
+Dawn Moore,Female,Grade 3,C-Sapphire,Installment,Literature,Varsity,21606.97,3226,85.39,2025-09-30,2011-02-21
+Jacob Flores,Male,Grade 7,C-Sapphire,Full Payment,Science,Glee Club,24553.01,956,90.36,2026-01-06,2016-02-18
+Dr. Courtney Larsen MD,Female,Grade 12,D-Ruby,Full Payment,Science,Student Council,28147.49,3283,91.94,2025-12-02,2015-05-10
+Kristina Jackson,Female,Grade 12,C-Sapphire,Installment,Mathematics,Varsity,23356.84,2430,93.71,2025-09-09,2007-08-31
+Scott Jones,Female,Grade 11,C-Sapphire,Installment,Science,Glee Club,40408.4,2457,93.98,2025-08-20,2013-04-18
+Timothy Walker,Male,Grade 12,A-Diamond,Full Payment,History,Arts Club,39270.03,2257,85.62,2025-11-22,2013-02-01
+Micheal Smith,Male,Grade 7,A-Diamond,Scholarship,Mathematics,Arts Club,32499.61,4885,78.9,2025-11-22,2014-04-16
+Kenneth Hall,Male,Grade 3,A-Diamond,Installment,History,Arts Club,33527.19,4050,97.77,2026-02-22,2013-10-22
+Kelli Kennedy,Non-binary,Grade 7,B-Emerald,Late Payment,History,Student Council,31663.19,4312,76.66,2025-11-27,2019-06-11
+Kenneth Adams,Female,Grade 7,D-Ruby,Full Payment,History,Student Council,24510.35,1493,98.96,2025-12-22,2011-03-05
+Mr. Michael Bartlett,Female,Grade 1,D-Ruby,Late Payment,Science,Student Council,25858.93,1334,85.7,2026-03-30,2018-02-20
+James Jacobson,Female,Grade 3,D-Ruby,Scholarship,Computer Science,Varsity,25982.36,4451,92.82,2025-11-05,2012-01-08
+William Washington,Female,Grade 3,D-Ruby,Installment,History,Arts Club,39552.53,949,97.26,2025-11-29,2011-05-30
+Richard Taylor,Male,Grade 9,C-Sapphire,Scholarship,Science,None,35302.51,4646,88.64,2025-09-30,2019-10-14
+Valerie Griffith,Female,Grade 12,C-Sapphire,Installment,Literature,None,21390.83,950,88.0,2025-09-30,2011-03-01
+Angela Cooley,Non-binary,Grade 3,A-Diamond,Scholarship,Mathematics,None,30005.66,4421,78.16,2025-05-19,2009-06-28
+Robert Ramirez,Non-binary,Grade 12,A-Diamond,Installment,Literature,Arts Club,40254.91,2604,90.43,2026-02-20,2007-08-17
+Diane Adkins,Female,Grade 11,C-Sapphire,Full Payment,Mathematics,Student Council,38459.46,3147,87.46,2025-10-29,2013-02-10
+Rachel Wells,Non-binary,Grade 6,C-Sapphire,Late Payment,History,None,36279.55,2103,79.12,2026-02-17,2014-11-15
+Amy Landry,Male,Grade 3,A-Diamond,Scholarship,Computer Science,Glee Club,25967.84,3478,76.13,2025-09-11,2018-03-11
+Jessica Erickson,Non-binary,Grade 3,A-Diamond,Scholarship,History,Student Council,35913.99,3028,79.63,2025-12-27,2014-10-15
+Russell Herrera,Female,Grade 6,A-Diamond,Late Payment,History,None,41292.04,792,85.93,2025-12-04,2020-02-06
+Tonya Williams,Female,Grade 11,B-Emerald,Scholarship,Literature,Varsity,40821.0,1593,92.27,2025-07-27,2018-03-23
+Christina Payne,Female,Grade 6,B-Emerald,Full Payment,Computer Science,Glee Club,33552.56,1627,92.85,2025-07-09,2018-04-15
+Kelly Thompson,Male,Grade 12,C-Sapphire,Installment,Computer Science,Arts Club,36448.94,2643,75.86,2025-08-11,2015-05-13
+Margaret Barr,Male,Grade 1,C-Sapphire,Full Payment,Science,Arts Club,33495.23,1421,98.97,2025-11-28,2017-09-10
+Linda Payne,Non-binary,Grade 11,B-Emerald,Full Payment,History,Glee Club,22967.75,4547,90.78,2025-09-13,2012-12-21
+Mark Williams,Male,Grade 1,A-Diamond,Scholarship,Mathematics,None,29280.39,3771,92.22,2025-12-13,2009-09-16
+Kelly Sloan,Male,Grade 11,A-Diamond,Installment,Computer Science,None,18827.87,4141,78.39,2025-10-29,2013-10-24
+Donald Zavala,Non-binary,Grade 11,B-Emerald,Installment,History,Arts Club,27491.61,3575,76.9,2025-07-30,2014-12-17
+Gwendolyn Smith,Male,Grade 11,B-Emerald,Scholarship,Science,Student Council,27798.44,1441,85.91,2026-02-12,2009-03-06
+Harold Ray,Female,Grade 9,B-Emerald,Scholarship,History,Arts Club,40777.39,733,79.08,2025-08-07,2015-09-23
+Keith Jones,Male,Grade 12,A-Diamond,Scholarship,Science,Varsity,33802.57,4554,77.31,2025-10-25,2020-03-28
+Patrick Lowe,Male,Grade 3,D-Ruby,Installment,Literature,Varsity,24322.62,911,91.81,2025-07-03,2016-09-24
+Carol Meadows,Non-binary,Grade 3,A-Diamond,Full Payment,Literature,None,16666.74,1350,84.85,2025-06-23,2019-03-27
+Jessica Thompson,Non-binary,Grade 11,D-Ruby,Scholarship,Computer Science,Arts Club,39994.38,3989,80.61,2025-07-30,2016-12-21
+John Robinson,Male,Grade 11,C-Sapphire,Installment,Science,None,33707.11,3425,80.72,2026-01-08,2018-05-02
+Wendy Perez,Non-binary,Grade 11,D-Ruby,Scholarship,Computer Science,None,18262.65,1724,85.6,2025-07-23,2013-04-18
+Timothy Collins,Female,Grade 1,B-Emerald,Late Payment,Science,None,35285.59,3829,90.92,2025-06-19,2009-03-16
+Travis Clark,Male,Grade 1,A-Diamond,Late Payment,Computer Science,None,19127.49,901,86.29,2026-04-19,2017-06-08
+Michael Russell,Non-binary,Grade 9,A-Diamond,Installment,Mathematics,Varsity,35477.91,1967,86.62,2025-12-20,2018-11-22
+Thomas Mcdaniel,Non-binary,Grade 11,D-Ruby,Full Payment,Literature,Varsity,28663.5,2095,81.62,2025-07-18,2020-04-12
+Bradley Pena,Female,Grade 6,D-Ruby,Late Payment,Mathematics,None,26955.17,4852,77.03,2025-09-19,2011-07-04
+Elaine Thomas,Non-binary,Grade 6,D-Ruby,Installment,Computer Science,Student Council,44071.16,4403,91.79,2026-03-15,2015-01-01
+Mr. Christopher Mcgee DVM,Male,Grade 9,B-Emerald,Scholarship,Mathematics,Student Council,39884.02,4664,81.55,2025-09-29,2017-05-15
+Kelly Price,Non-binary,Grade 6,D-Ruby,Installment,Literature,Glee Club,19148.78,1727,78.68,2025-09-14,2011-04-24
+Michael Yang,Female,Grade 9,A-Diamond,Full Payment,Literature,Glee Club,17356.69,2379,81.23,2025-06-30,2009-09-01
+Rachael Taylor,Non-binary,Grade 1,A-Diamond,Scholarship,Literature,Arts Club,43111.38,1696,92.92,2025-12-11,2017-12-30
+Elizabeth Nelson,Male,Grade 12,B-Emerald,Installment,Science,Student Council,28179.78,1932,92.94,2026-02-08,2010-05-27
+Jesse Keller,Non-binary,Grade 7,D-Ruby,Full Payment,Science,Student Council,19988.75,2078,78.47,2025-09-14,2014-01-10
+Jerry Berger,Male,Grade 11,A-Diamond,Full Payment,Mathematics,Student Council,16977.88,4686,96.83,2025-05-30,2008-03-30
+Danielle Michael,Male,Grade 11,B-Emerald,Full Payment,Literature,Student Council,34520.7,4140,84.95,2025-09-03,2016-07-15
+Justin Baker,Male,Grade 11,B-Emerald,Scholarship,History,Arts Club,34171.18,3367,92.28,2025-05-26,2009-05-15
+Joseph Kelly,Male,Grade 3,A-Diamond,Full Payment,Literature,None,34552.99,890,96.52,2026-02-20,2013-05-02
+Debra Duran,Male,Grade 7,A-Diamond,Full Payment,Literature,Varsity,29358.85,1084,89.98,2025-07-22,2018-08-10
+Patricia Ward,Male,Grade 9,B-Emerald,Installment,Mathematics,None,37199.88,513,90.15,2026-03-28,2016-12-31
+Dawn Grimes,Non-binary,Grade 7,A-Diamond,Late Payment,History,Varsity,20450.27,3222,91.59,2025-06-08,2010-08-27
+James Scott,Male,Grade 3,C-Sapphire,Full Payment,Computer Science,Glee Club,28179.37,976,76.99,2025-07-19,2018-09-04
+Jeffrey Berry,Non-binary,Grade 11,B-Emerald,Late Payment,Science,Varsity,34489.88,1165,93.9,2025-08-19,2017-03-17
+Joshua Fields,Non-binary,Grade 11,B-Emerald,Full Payment,Literature,Varsity,33403.85,4762,81.22,2026-05-06,2011-06-29
+Susan Cooley,Male,Grade 12,D-Ruby,Full Payment,Literature,Varsity,22544.21,3499,75.95,2025-10-23,2008-01-04
+Ashley Fleming,Female,Grade 3,A-Diamond,Installment,Computer Science,Student Council,24033.54,1973,92.4,2026-02-05,2019-02-03
+Victor Gilbert,Female,Grade 3,B-Emerald,Scholarship,Computer Science,None,37684.7,1545,92.37,2025-10-30,2009-03-25
+Melissa Maxwell,Female,Grade 1,D-Ruby,Full Payment,Literature,Glee Club,40789.94,2568,83.77,2025-08-23,2014-04-24
+Lawrence Soto,Non-binary,Grade 6,A-Diamond,Installment,Computer Science,Arts Club,28868.85,2473,93.43,2025-05-30,2012-12-26
+Rose Khan,Female,Grade 1,D-Ruby,Late Payment,Computer Science,None,37516.49,2435,96.13,2026-04-03,2016-02-21
+Pamela Sandoval,Female,Grade 9,A-Diamond,Scholarship,Literature,Arts Club,26514.98,2421,82.23,2026-03-03,2009-09-20
+Morgan Johnson,Non-binary,Grade 9,C-Sapphire,Late Payment,Literature,None,44704.85,1392,76.5,2025-10-17,2018-04-20
+Cory Chavez,Female,Grade 12,D-Ruby,Late Payment,Mathematics,Glee Club,43716.77,4230,98.23,2025-10-17,2012-07-28
+Elizabeth Torres,Male,Grade 6,B-Emerald,Late Payment,Mathematics,Glee Club,20804.65,4374,80.97,2026-01-03,2012-01-25
+Theresa Crawford,Female,Grade 3,A-Diamond,Scholarship,Mathematics,Varsity,19944.18,868,90.46,2026-04-16,2016-12-02
+Becky Watkins,Female,Grade 11,C-Sapphire,Late Payment,Science,Varsity,24444.84,903,88.18,2025-09-09,2010-05-07
+Scott Williams,Female,Grade 11,B-Emerald,Installment,Mathematics,Varsity,26854.58,2174,91.61,2025-09-23,2017-11-28
+Mary Weaver,Female,Grade 9,C-Sapphire,Full Payment,History,Student Council,35790.84,591,82.58,2026-04-05,2012-03-10
+Rachel Bennett,Female,Grade 9,C-Sapphire,Scholarship,Mathematics,Student Council,34565.54,4701,87.61,2025-06-24,2019-07-21
+Keith Meyer,Male,Grade 1,A-Diamond,Installment,Science,Student Council,30986.22,3473,92.59,2025-07-25,2007-10-27
+David Bailey,Male,Grade 6,B-Emerald,Installment,Mathematics,Glee Club,28039.11,1456,94.87,2025-10-11,2011-08-03
+Sarah Dixon,Non-binary,Grade 12,B-Emerald,Full Payment,History,None,34685.39,3913,92.38,2025-12-25,2012-02-26
+James Miller,Female,Grade 3,C-Sapphire,Installment,History,Arts Club,19811.82,2350,82.89,2025-11-09,2018-04-30
+Susan Mccoy,Male,Grade 11,A-Diamond,Full Payment,Science,Arts Club,24997.83,1697,75.53,2025-06-22,2016-12-28
+Michelle Werner MD,Non-binary,Grade 11,A-Diamond,Scholarship,Computer Science,Glee Club,30444.78,3188,75.09,2025-06-30,2017-11-05
+Sandra Combs,Non-binary,Grade 6,C-Sapphire,Full Payment,Science,None,15047.16,2596,82.14,2025-06-24,2008-06-22
+Kimberly Russell,Non-binary,Grade 12,D-Ruby,Scholarship,Literature,None,43103.08,1404,86.27,2025-08-23,2014-02-23
+Cheryl Terry,Male,Grade 6,B-Emerald,Full Payment,Computer Science,Varsity,27610.39,1636,80.05,2025-06-19,2018-06-18
+Miranda Garcia,Non-binary,Grade 12,D-Ruby,Late Payment,Mathematics,Glee Club,35949.61,1018,98.19,2025-12-22,2013-02-11
+Cynthia Steele,Male,Grade 6,D-Ruby,Scholarship,History,Varsity,19774.04,3572,92.04,2025-06-14,2012-07-05
+Jack Villegas,Non-binary,Grade 11,B-Emerald,Full Payment,Literature,Varsity,18019.02,3684,94.88,2025-07-15,2007-08-16
+Angelica Shelton,Male,Grade 12,A-Diamond,Full Payment,Computer Science,Student Council,40654.14,2075,91.14,2026-03-29,2015-02-12
+Shannon Robbins,Male,Grade 12,D-Ruby,Installment,Literature,Arts Club,32566.35,1624,83.25,2025-12-01,2019-04-16
+Parker Mccoy,Female,Grade 12,A-Diamond,Full Payment,Mathematics,Arts Club,44714.67,4773,80.31,2026-01-25,2008-01-30
+Lawrence Collins,Male,Grade 11,C-Sapphire,Late Payment,Literature,Student Council,39005.15,1780,91.64,2025-06-28,2008-03-03
+Craig West,Non-binary,Grade 7,C-Sapphire,Full Payment,Science,Varsity,41756.91,4149,83.4,2025-10-31,2010-01-04
+Anthony Martinez,Female,Grade 1,B-Emerald,Full Payment,Literature,Varsity,28321.44,2282,77.95,2026-03-04,2020-02-10
+Joseph Ray,Male,Grade 6,B-Emerald,Installment,Literature,Student Council,28440.07,3051,83.47,2025-11-30,2020-04-17
+Tanner Powell,Male,Grade 11,D-Ruby,Full Payment,Literature,None,21907.51,4272,97.15,2026-04-29,2012-06-18
+Michael Williams,Male,Grade 1,C-Sapphire,Late Payment,Mathematics,Student Council,18898.46,4657,79.32,2025-12-16,2012-10-11
+Edgar Sexton,Non-binary,Grade 3,B-Emerald,Full Payment,Mathematics,Glee Club,15913.8,3536,76.6,2025-05-21,2009-02-09
+David Obrien,Female,Grade 6,A-Diamond,Full Payment,Literature,Arts Club,28346.47,1007,97.21,2026-04-13,2011-11-26
+William Johns,Female,Grade 3,D-Ruby,Installment,Computer Science,Student Council,18229.15,2336,90.49,2025-11-16,2013-05-28
+Mrs. Kimberly Burke,Non-binary,Grade 11,C-Sapphire,Installment,Mathematics,Student Council,22736.78,2114,78.09,2025-08-24,2011-12-12
+Michael Garcia,Male,Grade 11,A-Diamond,Scholarship,Science,None,20555.09,750,92.85,2025-07-14,2008-12-30
+Brandon Robinson,Non-binary,Grade 1,A-Diamond,Full Payment,Science,Varsity,27881.51,1182,80.73,2026-04-17,2018-12-04
+Brittney Nelson,Non-binary,Grade 9,A-Diamond,Full Payment,Mathematics,Varsity,25700.94,1083,95.82,2026-02-04,2011-03-12
+Raymond Lucas,Male,Grade 9,C-Sapphire,Installment,Science,Glee Club,42699.09,3206,96.3,2025-12-08,2009-07-17
+Andrew Stephens,Male,Grade 6,B-Emerald,Scholarship,Mathematics,Glee Club,30294.93,3230,83.4,2025-06-01,2008-08-01
+Daniel Velazquez,Female,Grade 7,A-Diamond,Scholarship,Literature,Student Council,44622.84,3858,97.07,2025-08-16,2019-04-01
+Brian Cooper,Female,Grade 9,C-Sapphire,Installment,Science,Varsity,30676.79,2969,88.31,2025-08-14,2020-02-25
+Laurie Clark,Female,Grade 11,A-Diamond,Scholarship,Mathematics,Glee Club,25962.37,3802,75.62,2025-10-25,2009-10-29
+Miranda Gomez,Non-binary,Grade 3,B-Emerald,Late Payment,Science,None,18444.44,2051,82.62,2025-09-14,2019-01-26
+Vanessa Gilmore,Female,Grade 1,A-Diamond,Late Payment,History,None,41968.98,838,76.41,2025-07-24,2018-02-14
+Mr. Scott Obrien DDS,Male,Grade 12,B-Emerald,Late Payment,Mathematics,Student Council,37242.45,2264,78.95,2026-02-03,2016-06-03
+Troy Kim,Female,Grade 7,D-Ruby,Scholarship,Mathematics,None,27483.68,2196,82.25,2025-06-27,2019-03-23
+Jeffery Young,Non-binary,Grade 11,C-Sapphire,Installment,History,Arts Club,36621.01,1619,83.99,2026-04-14,2008-06-26
+Mrs. Amy Carroll,Male,Grade 1,B-Emerald,Installment,Mathematics,Varsity,27884.18,3760,79.84,2026-01-05,2013-09-16
+Stephanie Reyes,Non-binary,Grade 11,D-Ruby,Scholarship,Mathematics,Arts Club,21597.41,1537,97.42,2025-07-31,2016-07-25
+Christopher Reese,Male,Grade 7,C-Sapphire,Scholarship,History,Arts Club,19523.33,2805,93.74,2025-12-20,2009-12-26
+Jason Hardin,Male,Grade 11,B-Emerald,Scholarship,History,None,42361.26,3626,96.02,2025-08-04,2011-03-30
+Barbara Stokes,Female,Grade 11,D-Ruby,Full Payment,Mathematics,Arts Club,34192.4,4606,78.85,2026-05-03,2011-04-29
+Melissa Mckay,Female,Grade 1,B-Emerald,Late Payment,History,Arts Club,39144.59,3410,95.68,2025-07-13,2014-09-16
+Michael Thomas,Female,Grade 3,B-Emerald,Full Payment,Literature,Varsity,32139.17,4516,86.16,2026-04-29,2016-02-05
+Adriana Riley,Male,Grade 1,B-Emerald,Full Payment,History,Student Council,42595.64,3001,81.03,2026-03-26,2020-03-05
+Thomas Chavez,Non-binary,Grade 3,B-Emerald,Installment,Mathematics,Arts Club,27268.52,3135,96.41,2025-11-23,2010-12-04
+Rachel Schmidt,Non-binary,Grade 9,B-Emerald,Installment,Science,Student Council,37794.22,2207,83.74,2026-01-27,2012-01-03
+Bradley Jacobs,Non-binary,Grade 11,D-Ruby,Scholarship,Computer Science,Glee Club,38375.89,1225,97.17,2026-02-03,2017-06-25
+Rebecca Powell,Non-binary,Grade 12,C-Sapphire,Full Payment,History,None,38773.52,4978,92.05,2026-02-27,2008-07-20
+Courtney Jensen,Male,Grade 6,A-Diamond,Scholarship,Science,Glee Club,21166.95,1088,89.87,2025-06-05,2013-04-06
+Mr. Erik Young Jr.,Non-binary,Grade 1,A-Diamond,Late Payment,Literature,Glee Club,21723.3,2751,88.08,2025-10-05,2010-08-14
+Cole Richardson,Non-binary,Grade 6,D-Ruby,Late Payment,History,None,33541.38,2822,77.35,2025-06-11,2008-01-02
+Amy Mitchell,Non-binary,Grade 1,B-Emerald,Scholarship,History,Glee Club,43024.73,3906,97.18,2025-05-28,2018-11-12
+Matthew James Jr.,Male,Grade 12,A-Diamond,Full Payment,History,Arts Club,40753.5,4810,81.92,2025-10-25,2014-01-01
+Frank Guzman,Female,Grade 12,B-Emerald,Late Payment,Mathematics,Student Council,36811.81,3572,98.33,2026-02-11,2010-03-01
+Joseph Craig,Male,Grade 9,B-Emerald,Late Payment,History,Student Council,23288.63,4068,91.05,2026-02-02,2012-03-17
+Christy Mckay,Male,Grade 9,A-Diamond,Late Payment,Science,Student Council,23944.19,1155,95.0,2025-09-15,2013-08-25
+Tiffany Wilcox,Male,Grade 3,B-Emerald,Late Payment,Science,Varsity,19389.25,2195,92.4,2025-10-27,2019-07-14
+Peter Williamson,Male,Grade 6,A-Diamond,Full Payment,Mathematics,Arts Club,24735.27,3937,92.25,2025-10-16,2017-04-21
+Amanda Williams,Non-binary,Grade 7,C-Sapphire,Late Payment,History,None,32946.26,3800,75.71,2025-11-30,2009-06-26
+Kevin Patterson,Non-binary,Grade 7,A-Diamond,Full Payment,History,None,29126.09,4985,93.83,2025-07-04,2015-12-15
+Tyler Carpenter,Male,Grade 9,B-Emerald,Full Payment,History,None,24765.95,3085,87.83,2025-10-10,2007-08-30
+Edward Ortiz,Female,Grade 6,A-Diamond,Late Payment,Mathematics,Glee Club,31480.33,3241,87.17,2025-08-11,2009-12-03
+Carlos Hansen,Male,Grade 7,D-Ruby,Late Payment,Science,Arts Club,16393.11,4257,93.74,2025-06-10,2008-12-05
+Ryan Watson,Non-binary,Grade 6,A-Diamond,Installment,Computer Science,Glee Club,30466.02,3451,95.18,2025-05-21,2017-05-08
+Joshua Spence,Female,Grade 9,D-Ruby,Installment,Mathematics,None,16459.09,702,78.7,2025-12-19,2015-10-12
+Angela Cochran,Female,Grade 6,B-Emerald,Full Payment,Literature,Student Council,35875.52,4109,83.43,2025-06-29,2008-06-14
+Karen Clark,Female,Grade 12,C-Sapphire,Installment,Science,Student Council,40627.33,3950,95.48,2026-04-07,2015-06-05
+Victoria Morgan,Female,Grade 11,C-Sapphire,Installment,Mathematics,None,18038.6,4792,90.25,2025-05-19,2010-11-02
+Janice Garcia,Female,Grade 12,C-Sapphire,Installment,Computer Science,Arts Club,39607.34,3764,88.24,2025-10-17,2014-08-07
+Lucas Taylor,Male,Grade 1,B-Emerald,Full Payment,Science,Arts Club,22210.48,3932,92.51,2025-08-10,2015-06-02
+Susan Goodman,Non-binary,Grade 11,D-Ruby,Full Payment,Computer Science,Student Council,18755.65,742,82.1,2025-07-29,2007-11-07
+Jeffery Parker,Female,Grade 9,C-Sapphire,Scholarship,Computer Science,Student Council,19129.47,1782,79.69,2026-04-18,2010-11-22
+Sarah French,Male,Grade 12,A-Diamond,Installment,Computer Science,None,41136.66,3375,78.79,2026-04-22,2014-07-12
+Aaron Martinez,Male,Grade 6,B-Emerald,Scholarship,Science,None,18894.19,694,84.26,2026-04-11,2017-12-21
+Jesse Glover,Male,Grade 1,D-Ruby,Full Payment,Literature,None,19580.16,1032,84.65,2026-01-28,2010-08-22
+Kelly Williams,Male,Grade 9,D-Ruby,Installment,Computer Science,Varsity,22748.12,1601,88.58,2025-10-11,2018-12-26
+Stephen Phillips,Male,Grade 7,C-Sapphire,Installment,Science,Varsity,37867.62,3485,94.32,2025-07-31,2016-07-22
+Robert Johnson,Male,Grade 7,B-Emerald,Scholarship,Literature,Varsity,17645.73,3971,81.23,2026-03-22,2018-05-17
+Kimberly Reynolds,Female,Grade 3,A-Diamond,Full Payment,Literature,None,20437.87,2267,83.11,2026-04-19,2018-03-16
+Susan Anderson,Male,Grade 1,A-Diamond,Full Payment,Computer Science,Varsity,44095.02,1911,95.36,2025-06-21,2015-11-14
+Dawn Walters,Male,Grade 12,C-Sapphire,Late Payment,Mathematics,Varsity,34275.59,1785,85.31,2025-11-08,2017-04-20
+Martin Rivera,Male,Grade 6,B-Emerald,Installment,History,Varsity,22963.23,927,91.95,2025-06-07,2011-11-02
+Mrs. Cristina Clark,Female,Grade 1,D-Ruby,Scholarship,Mathematics,Arts Club,19840.97,1560,78.29,2026-03-12,2007-11-18
+Elizabeth Chavez,Male,Grade 1,B-Emerald,Late Payment,History,Glee Club,23562.54,747,82.71,2025-10-02,2014-11-20
+Tara Cobb,Male,Grade 11,B-Emerald,Scholarship,Mathematics,Arts Club,26018.87,3819,96.1,2026-04-08,2010-11-14
+Sean Williams,Female,Grade 6,B-Emerald,Full Payment,Science,Varsity,20046.74,4636,77.02,2025-08-23,2009-04-20
+Casey Rodriguez,Female,Grade 1,D-Ruby,Scholarship,History,Arts Club,40766.05,3818,85.31,2025-07-24,2014-02-04
+Michael Ochoa,Non-binary,Grade 6,B-Emerald,Installment,Science,None,38532.18,3594,76.76,2026-04-06,2012-07-23
+Darius Tucker,Male,Grade 1,D-Ruby,Installment,History,Arts Club,20234.9,4084,89.26,2026-02-23,2016-05-04
+Jacqueline Jones,Non-binary,Grade 7,C-Sapphire,Full Payment,Mathematics,Glee Club,43162.42,799,98.0,2025-07-17,2011-07-06
+Joseph Lopez,Female,Grade 11,C-Sapphire,Scholarship,Mathematics,Varsity,43143.16,3495,95.69,2025-11-25,2018-10-24
+Shelby Mcneil,Non-binary,Grade 7,B-Emerald,Installment,Literature,Glee Club,15604.85,4278,76.22,2025-11-14,2018-11-08
+Alyssa Dean,Non-binary,Grade 7,C-Sapphire,Late Payment,History,Varsity,28894.07,4362,95.01,2025-06-26,2012-01-09
+Taylor Smith,Non-binary,Grade 1,B-Emerald,Full Payment,History,Varsity,38141.31,2187,77.44,2025-10-30,2019-07-07
+Derrick Nicholson,Non-binary,Grade 11,A-Diamond,Installment,Computer Science,Glee Club,30824.72,940,80.74,2026-02-17,2007-07-21
+Anthony Kelley,Female,Grade 9,D-Ruby,Installment,Computer Science,None,19373.13,4687,97.19,2025-12-06,2012-10-20
+Jonathan Hall,Female,Grade 9,D-Ruby,Installment,History,Student Council,20674.72,4189,81.07,2026-03-04,2010-03-12
+Larry Hodges,Female,Grade 12,B-Emerald,Full Payment,Mathematics,Student Council,32597.09,1558,75.57,2026-04-26,2012-12-15
+Mark Carpenter,Female,Grade 7,B-Emerald,Late Payment,Literature,Arts Club,16788.47,1760,75.66,2026-01-17,2008-07-17
+Lauren Jackson,Male,Grade 11,B-Emerald,Late Payment,Science,None,41052.94,1423,90.22,2025-12-31,2016-09-06
+Mary Smith,Female,Grade 9,A-Diamond,Scholarship,Computer Science,Student Council,41756.3,3438,79.25,2026-02-07,2016-01-24
+Jill Ayers,Female,Grade 6,A-Diamond,Scholarship,Science,None,39786.83,3782,88.59,2025-09-18,2018-08-28
+Nicole Bernard,Male,Grade 9,C-Sapphire,Installment,Science,Arts Club,44209.72,2194,88.5,2025-07-05,2017-06-20
+Dustin Montgomery,Female,Grade 12,C-Sapphire,Late Payment,Mathematics,None,21228.51,855,76.79,2025-11-16,2011-03-24
+Samantha Lewis MD,Female,Grade 1,C-Sapphire,Late Payment,Literature,Arts Club,35434.02,1986,85.91,2026-01-04,2015-11-23
+Tiffany Coleman,Non-binary,Grade 12,B-Emerald,Full Payment,Mathematics,Varsity,32349.2,1699,97.51,2025-06-28,2014-03-17
+Karen Gregory,Female,Grade 12,A-Diamond,Late Payment,Computer Science,Student Council,27293.59,1083,84.2,2026-01-19,2008-08-19
+Keith Hamilton,Male,Grade 12,A-Diamond,Scholarship,History,None,32681.45,1025,78.44,2026-01-11,2012-10-05
+Robert White,Female,Grade 11,A-Diamond,Installment,Computer Science,Glee Club,43658.99,2630,79.23,2025-10-29,2014-02-06
+Kelsey Jimenez,Male,Grade 11,A-Diamond,Full Payment,History,Arts Club,17794.47,1484,92.29,2025-12-11,2011-07-18
+Michelle Hall,Female,Grade 9,D-Ruby,Full Payment,Computer Science,Glee Club,44865.32,2173,77.02,2026-01-23,2009-01-10
+Danielle Spencer,Female,Grade 3,C-Sapphire,Installment,Computer Science,Arts Club,33507.83,1095,76.75,2025-06-08,2017-01-09
+Ashley Russell,Non-binary,Grade 12,A-Diamond,Scholarship,History,None,27931.19,1929,90.28,2025-05-18,2009-07-24
+Nathan Meza,Non-binary,Grade 6,D-Ruby,Scholarship,Science,Varsity,31754.14,3272,82.72,2025-12-23,2017-06-01
+Christopher Taylor,Male,Grade 9,C-Sapphire,Full Payment,Science,None,23787.53,4680,92.18,2025-10-18,2016-12-19
+Maria Thomas,Non-binary,Grade 7,C-Sapphire,Installment,Mathematics,None,17956.32,4540,90.13,2026-04-04,2018-03-09
+Lori Watson,Male,Grade 3,C-Sapphire,Scholarship,Science,Glee Club,15075.69,988,88.08,2026-01-30,2013-09-13
+Jonathan Wright,Female,Grade 11,B-Emerald,Scholarship,Computer Science,Glee Club,43029.15,4935,88.56,2025-06-09,2010-04-22
+Christopher Griffith,Male,Grade 1,D-Ruby,Full Payment,History,Varsity,44089.37,3912,98.22,2026-04-09,2019-07-10
+Matthew Warren,Male,Grade 9,B-Emerald,Installment,History,Glee Club,21127.12,4472,78.4,2025-09-02,2017-01-16
+Matthew Warren,Male,Grade 6,D-Ruby,Scholarship,Literature,None,22316.14,3627,95.69,2025-12-12,2010-07-14
+Robert Pacheco,Female,Grade 11,A-Diamond,Late Payment,History,Student Council,28046.82,4680,84.88,2025-09-28,2019-07-17
+Henry Erickson,Female,Grade 12,C-Sapphire,Full Payment,Computer Science,None,38967.87,2766,81.13,2025-06-23,2020-04-04
+Douglas Gonzalez,Non-binary,Grade 3,B-Emerald,Full Payment,Mathematics,Glee Club,40217.8,1908,82.13,2026-01-05,2017-07-27
+Victor Navarro,Male,Grade 9,D-Ruby,Late Payment,Literature,Varsity,23994.71,807,96.77,2026-01-02,2013-07-09
+Heidi Love MD,Female,Grade 3,B-Emerald,Scholarship,Literature,Glee Club,44087.34,1953,97.12,2025-10-29,2009-07-24
+Mason Cobb,Male,Grade 3,B-Emerald,Late Payment,Mathematics,Arts Club,35269.98,2869,94.67,2025-06-16,2016-01-19
+Jordan Garcia,Male,Grade 12,A-Diamond,Installment,Literature,Arts Club,23864.72,505,88.5,2025-06-10,2009-10-04
+Anthony Kaufman,Non-binary,Grade 9,A-Diamond,Scholarship,History,Varsity,26018.68,761,93.45,2025-08-24,2010-05-27
+Robert Dalton,Non-binary,Grade 12,A-Diamond,Scholarship,Science,Varsity,33867.02,532,75.48,2026-01-27,2010-12-22
+Erin Gordon,Male,Grade 12,C-Sapphire,Full Payment,History,Student Council,34231.68,4995,86.42,2025-10-22,2012-03-25
+Christopher Singh,Male,Grade 7,C-Sapphire,Scholarship,Literature,Student Council,36385.53,4567,93.76,2025-06-04,2016-03-26
+Laura Cox,Female,Grade 12,C-Sapphire,Installment,Literature,Glee Club,43463.04,1584,95.07,2025-12-26,2020-02-13
+Raymond Ellis,Female,Grade 1,A-Diamond,Late Payment,History,Varsity,36964.31,1035,92.42,2025-10-10,2018-12-15
+Nancy Mcguire,Non-binary,Grade 6,A-Diamond,Installment,History,Arts Club,33438.18,2418,77.19,2026-03-04,2012-04-11
+Vanessa Leonard,Female,Grade 11,B-Emerald,Late Payment,Computer Science,None,41064.59,4857,87.52,2025-09-30,2012-08-04
+Aaron Williams,Male,Grade 12,A-Diamond,Installment,History,Glee Club,44371.25,2557,81.09,2025-09-14,2015-09-09
+Jeffrey Romero,Non-binary,Grade 3,C-Sapphire,Full Payment,Science,None,26803.57,3481,92.45,2025-11-27,2016-04-08
+Catherine Phillips,Non-binary,Grade 11,A-Diamond,Late Payment,Computer Science,Student Council,35015.32,4566,90.54,2025-06-10,2012-10-20
+Anna Chang,Non-binary,Grade 6,D-Ruby,Late Payment,Literature,Varsity,40350.09,2524,97.23,2025-07-11,2020-04-01
+Pamela Jimenez,Non-binary,Grade 11,A-Diamond,Late Payment,Computer Science,Varsity,23890.96,3078,75.61,2025-06-16,2017-09-02
+Denise Hensley,Non-binary,Grade 11,B-Emerald,Late Payment,Science,Student Council,44189.7,4265,75.86,2026-03-12,2011-12-09
+Jerry Green,Male,Grade 3,A-Diamond,Full Payment,Mathematics,Varsity,25368.49,2045,87.56,2026-03-27,2014-05-07
+Nicole Jensen,Female,Grade 7,B-Emerald,Late Payment,Science,Glee Club,35763.54,3880,81.0,2025-05-08,2019-04-19
+Nicole Jenkins,Male,Grade 9,D-Ruby,Full Payment,Mathematics,Student Council,20500.69,2374,85.29,2025-06-24,2020-01-08
+Anthony Hernandez,Female,Grade 3,C-Sapphire,Late Payment,History,Varsity,39729.67,1453,96.34,2025-08-10,2012-02-10
+Ms. Melissa Chambers,Non-binary,Grade 12,D-Ruby,Scholarship,History,Arts Club,29893.29,4539,78.68,2025-08-27,2018-02-24
+Caroline Harris,Non-binary,Grade 12,D-Ruby,Scholarship,Mathematics,Arts Club,24979.86,4743,95.0,2026-02-11,2014-02-21
+Stephanie Cherry,Male,Grade 9,B-Emerald,Installment,Mathematics,Student Council,20511.59,1798,86.18,2025-05-24,2010-01-30
+Kathryn Stephenson,Male,Grade 1,C-Sapphire,Scholarship,Literature,None,30225.42,1193,87.58,2025-09-14,2017-11-03
+Tyler Payne,Female,Grade 11,B-Emerald,Late Payment,History,None,39982.38,1624,77.4,2025-12-25,2018-08-24
+Rachel Pearson,Female,Grade 1,B-Emerald,Late Payment,Science,Varsity,37347.75,4706,92.42,2025-10-02,2016-10-11
+Samantha White,Female,Grade 12,D-Ruby,Full Payment,Literature,Student Council,16450.79,3466,90.0,2026-04-26,2010-01-27
+Nicolas Holland,Male,Grade 11,A-Diamond,Full Payment,History,None,26747.08,558,87.0,2025-06-23,2009-02-25
+Grace Vincent,Male,Grade 9,A-Diamond,Full Payment,Computer Science,Student Council,17025.6,3845,98.37,2025-08-06,2010-12-25
+Travis Hicks,Female,Grade 11,A-Diamond,Scholarship,Literature,Glee Club,21699.65,4716,99.0,2025-05-09,2014-07-03
+Dustin Thomas,Non-binary,Grade 9,C-Sapphire,Scholarship,Literature,Arts Club,35523.04,1665,88.91,2026-03-18,2017-04-14
+Richard Mcdonald,Female,Grade 12,C-Sapphire,Installment,Science,Varsity,23524.15,1946,94.01,2025-06-18,2018-12-02
+Jacob Ramos,Male,Grade 3,C-Sapphire,Installment,Science,Glee Club,31057.59,790,93.13,2025-05-13,2015-02-14
+Madison Rodriguez,Male,Grade 3,C-Sapphire,Installment,Science,Student Council,31181.09,2067,85.6,2026-03-01,2010-01-25
+Justin Brown,Female,Grade 6,B-Emerald,Installment,Literature,Arts Club,26658.85,4985,87.83,2026-04-21,2014-11-18
+Hunter Hunter,Female,Grade 12,B-Emerald,Scholarship,Mathematics,Varsity,39383.02,3191,97.97,2026-01-02,2010-02-19
+Robert Hawkins,Male,Grade 12,A-Diamond,Full Payment,Computer Science,Glee Club,18729.74,1705,87.05,2026-02-09,2012-07-27
+Alyssa Simmons,Non-binary,Grade 6,B-Emerald,Full Payment,History,Glee Club,44148.21,4203,96.45,2025-05-22,2008-02-08
+Heather Mcpherson,Female,Grade 9,D-Ruby,Full Payment,Literature,Varsity,44890.82,4377,93.8,2025-05-10,2013-07-31
+Stacy Nolan,Male,Grade 3,C-Sapphire,Installment,Science,Glee Club,25093.3,4790,84.72,2026-04-07,2016-10-29
+Stephen Burke,Female,Grade 9,D-Ruby,Late Payment,Mathematics,Arts Club,17512.12,2650,80.88,2026-04-23,2011-03-25
+Marie Hatfield,Female,Grade 7,A-Diamond,Scholarship,History,Glee Club,15865.76,4672,94.75,2025-11-26,2007-09-12
+Janet Simmons,Non-binary,Grade 12,D-Ruby,Late Payment,Mathematics,Student Council,27105.83,3744,81.64,2026-01-03,2013-03-19
+Norma Huber,Non-binary,Grade 1,C-Sapphire,Installment,Literature,Varsity,15112.15,4469,84.51,2025-07-02,2011-08-18
+Destiny Chapman,Female,Grade 3,D-Ruby,Installment,Literature,Arts Club,40211.23,1979,81.72,2026-01-20,2017-04-14
+Joshua Paul,Male,Grade 6,A-Diamond,Late Payment,Science,None,35238.38,882,85.24,2026-02-08,2013-09-24
+Matthew Sellers,Male,Grade 6,A-Diamond,Scholarship,Literature,Student Council,43154.41,3426,84.38,2025-11-12,2009-10-25
+Audrey Anderson,Non-binary,Grade 9,A-Diamond,Installment,Literature,Glee Club,18887.13,2260,79.05,2025-07-25,2016-10-28
+Arthur Steele,Male,Grade 1,C-Sapphire,Late Payment,Science,Varsity,18849.29,2286,79.25,2025-06-30,2016-07-10
+Ashley Campbell,Non-binary,Grade 1,A-Diamond,Scholarship,History,None,26408.13,4702,75.27,2025-12-17,2015-09-17
+Justin Richmond,Female,Grade 12,B-Emerald,Installment,History,None,16747.1,1177,97.28,2025-07-12,2017-09-02
+Michael Wood,Non-binary,Grade 1,A-Diamond,Full Payment,Science,Arts Club,17869.01,1023,89.07,2025-09-04,2007-08-15
+Kelly Vazquez,Male,Grade 7,C-Sapphire,Scholarship,Science,Arts Club,16196.22,4966,93.37,2025-07-18,2007-09-04
+Mario Reese,Male,Grade 7,C-Sapphire,Installment,Literature,Arts Club,26655.7,1394,84.31,2025-12-02,2010-07-01
+Kimberly Kent,Male,Grade 6,D-Ruby,Full Payment,Literature,Glee Club,35475.34,2545,94.74,2025-12-03,2013-08-25
+Sarah Nunez,Male,Grade 1,D-Ruby,Late Payment,Computer Science,None,35158.88,602,81.84,2026-01-21,2011-10-13
+Tracy Nelson,Male,Grade 3,D-Ruby,Late Payment,History,None,19347.64,3274,86.61,2026-04-07,2017-03-23
+Tyler Rice,Female,Grade 3,C-Sapphire,Scholarship,History,Varsity,27600.51,2524,98.1,2025-10-14,2017-05-06
+Michelle Lawson,Non-binary,Grade 1,C-Sapphire,Installment,Science,Student Council,32047.16,2155,83.53,2025-12-19,2017-09-27
+Anna Stewart,Female,Grade 11,D-Ruby,Late Payment,History,Varsity,39962.74,976,85.08,2025-09-28,2008-11-13
+Jacob Sanchez,Female,Grade 3,D-Ruby,Scholarship,Computer Science,Glee Club,24612.77,3109,77.73,2025-09-13,2017-09-10
+Melissa Kennedy,Female,Grade 12,D-Ruby,Installment,Mathematics,Student Council,39785.41,2806,83.87,2025-10-28,2012-07-10
+John Hughes,Non-binary,Grade 6,C-Sapphire,Installment,Literature,None,32419.5,1770,80.65,2025-11-07,2010-05-12
+Ms. Loretta Case,Non-binary,Grade 12,A-Diamond,Late Payment,Computer Science,None,26761.48,2427,89.73,2025-06-24,2018-11-03
+Steven Franklin,Male,Grade 7,D-Ruby,Scholarship,Mathematics,Varsity,26549.66,3675,90.14,2026-01-02,2012-04-24
+Misty Moore,Male,Grade 6,D-Ruby,Scholarship,Literature,None,16440.51,2233,77.8,2025-08-20,2017-10-21
+Claudia Hart,Male,Grade 12,C-Sapphire,Full Payment,Computer Science,Arts Club,25958.5,580,75.52,2026-03-27,2008-07-24
+Summer Lopez,Non-binary,Grade 7,B-Emerald,Installment,Computer Science,Varsity,24667.4,3629,88.05,2025-12-13,2012-07-28
+Joy Hall,Male,Grade 3,C-Sapphire,Late Payment,Computer Science,Arts Club,43480.52,2035,82.86,2026-02-08,2010-03-18
+Jordan Rodriguez,Non-binary,Grade 3,B-Emerald,Late Payment,Science,Arts Club,44294.46,1166,85.91,2026-03-21,2012-11-23
+Carol Ramos,Female,Grade 7,B-Emerald,Scholarship,Mathematics,Arts Club,35646.38,4781,86.64,2026-03-26,2014-06-12
+Kevin Williams,Female,Grade 7,B-Emerald,Full Payment,Mathematics,Glee Club,21870.83,2172,93.84,2025-12-07,2016-11-14
+Larry Harris,Female,Grade 12,A-Diamond,Installment,History,None,36105.12,3845,84.53,2026-03-19,2014-07-15
+Brian Williams,Female,Grade 12,A-Diamond,Late Payment,Mathematics,Student Council,21123.38,4099,84.65,2026-01-02,2007-12-02
+Gregory Daniels,Male,Grade 12,B-Emerald,Installment,Science,Arts Club,16895.7,2447,96.06,2025-05-23,2018-03-19
+Melissa Craig,Male,Grade 12,C-Sapphire,Scholarship,Science,None,26745.84,4374,93.4,2025-12-31,2019-09-03
+Lauren Meza,Non-binary,Grade 1,A-Diamond,Late Payment,Computer Science,Student Council,25639.92,2035,91.54,2025-12-14,2017-02-18
+Amy Dudley,Female,Grade 11,B-Emerald,Scholarship,Computer Science,Glee Club,39117.28,3444,79.8,2025-07-21,2018-01-02
+Matthew Martinez,Non-binary,Grade 12,C-Sapphire,Installment,Computer Science,Varsity,31280.69,4998,87.01,2025-05-13,2016-07-07
+Sandra Mason,Non-binary,Grade 12,C-Sapphire,Installment,Computer Science,Arts Club,33184.37,3514,89.13,2025-09-17,2017-03-27
+Regina Price,Female,Grade 1,B-Emerald,Full Payment,Literature,None,26603.67,748,98.92,2025-10-24,2014-04-29
+Ashley Carson,Female,Grade 6,C-Sapphire,Full Payment,Literature,Student Council,40927.42,2462,84.09,2025-09-02,2015-02-13
+Eric Anderson,Male,Grade 11,D-Ruby,Late Payment,History,Varsity,15741.1,4466,84.48,2025-10-18,2014-11-05
+Daniel Peck,Female,Grade 3,B-Emerald,Full Payment,Literature,None,23449.6,700,82.68,2025-09-21,2019-10-20
+Andrew Weaver,Female,Grade 1,B-Emerald,Full Payment,Literature,Glee Club,31871.73,4004,90.24,2025-10-30,2008-12-20
+Pamela Nunez,Male,Grade 12,D-Ruby,Full Payment,Literature,Glee Club,18428.04,4872,95.0,2025-06-17,2019-08-11
+Anna Kennedy,Male,Grade 11,D-Ruby,Installment,Literature,Student Council,32103.41,3461,81.25,2025-10-14,2008-04-01
+Jeffrey Craig,Female,Grade 6,C-Sapphire,Installment,Literature,Arts Club,15613.62,1324,91.81,2025-11-10,2010-06-10
+Michael Taylor,Female,Grade 11,A-Diamond,Late Payment,History,None,28318.75,1554,81.77,2025-06-03,2014-04-28
+Julie Wilson,Male,Grade 7,D-Ruby,Scholarship,Literature,Student Council,24515.5,3101,82.31,2026-04-09,2020-03-22
+Alyssa Hernandez,Male,Grade 11,B-Emerald,Late Payment,History,None,21585.33,555,80.25,2025-09-19,2013-11-22
+Melissa Webster,Non-binary,Grade 11,C-Sapphire,Installment,Literature,Arts Club,41901.9,4504,96.53,2025-11-15,2019-01-07
+Justin Richardson,Male,Grade 3,B-Emerald,Scholarship,Computer Science,Varsity,24934.76,595,76.36,2025-10-16,2009-02-04
+Danielle Thompson MD,Non-binary,Grade 11,B-Emerald,Scholarship,Literature,None,40865.12,2095,92.13,2026-02-20,2010-11-19
+Kevin Rogers,Male,Grade 7,C-Sapphire,Full Payment,Mathematics,Student Council,44258.55,4071,89.02,2025-11-03,2017-06-18
+Linda Calderon,Male,Grade 6,D-Ruby,Full Payment,Literature,Student Council,29858.08,4474,83.85,2025-06-19,2014-12-04
+Katrina Edwards DDS,Female,Grade 11,A-Diamond,Late Payment,Science,Glee Club,44754.82,4313,75.59,2025-12-19,2017-11-13
+Eric Ferguson,Male,Grade 7,D-Ruby,Scholarship,Science,None,40728.43,2981,87.18,2026-03-09,2007-06-01
+Lisa Garza,Female,Grade 1,A-Diamond,Full Payment,Literature,Glee Club,36666.55,3498,85.81,2025-07-18,2017-05-30
+Eric Barton,Female,Grade 9,B-Emerald,Installment,Mathematics,Glee Club,33027.18,1952,97.3,2025-07-05,2008-10-21
+Andre Mitchell,Male,Grade 12,B-Emerald,Installment,Mathematics,Varsity,26338.58,4784,97.14,2025-12-14,2016-11-30
+Tony Long,Female,Grade 1,C-Sapphire,Scholarship,Computer Science,Varsity,31271.85,1064,85.43,2025-12-07,2007-06-23
+Angela Ramirez,Female,Grade 7,C-Sapphire,Full Payment,History,Student Council,41798.57,2053,92.3,2025-07-01,2007-08-21
+Joshua Strong,Non-binary,Grade 1,C-Sapphire,Full Payment,Computer Science,Glee Club,22426.46,3549,95.84,2025-12-04,2014-07-26
+Mr. Kenneth Mcknight DDS,Female,Grade 6,B-Emerald,Scholarship,History,Glee Club,21441.02,4903,98.37,2025-12-17,2009-08-10
+Christopher Cohen,Male,Grade 9,A-Diamond,Late Payment,Literature,Varsity,41210.38,2342,86.26,2026-03-06,2009-04-04
+Danielle Cox,Male,Grade 1,A-Diamond,Scholarship,Computer Science,Glee Club,42314.3,2457,80.86,2025-10-26,2016-03-06
+Michael Rodriguez,Female,Grade 12,C-Sapphire,Installment,Computer Science,Glee Club,19444.52,2362,88.79,2026-02-21,2019-01-10
+Joseph Mckinney,Male,Grade 12,A-Diamond,Scholarship,History,Glee Club,21763.2,4448,98.19,2026-01-26,2016-08-29
+Kathryn Watson,Female,Grade 6,A-Diamond,Installment,Computer Science,Glee Club,29642.76,3412,92.91,2025-05-24,2008-09-19
+Samantha Scott,Female,Grade 12,D-Ruby,Full Payment,Literature,None,31106.29,2232,94.87,2025-12-08,2012-06-05
+Laura Barker,Female,Grade 12,C-Sapphire,Scholarship,History,Varsity,39145.47,2981,84.47,2025-08-10,2015-08-11
+Andre Torres,Female,Grade 7,B-Emerald,Scholarship,History,Arts Club,31899.68,4342,95.8,2026-03-20,2013-12-25
+Mary Wong,Non-binary,Grade 1,A-Diamond,Installment,History,Glee Club,20156.12,1466,83.18,2026-01-19,2018-05-20
+Carlos Mitchell,Female,Grade 9,B-Emerald,Scholarship,Mathematics,Varsity,34204.01,4247,90.02,2025-10-14,2012-08-22
+Ms. Holly Gray,Male,Grade 9,A-Diamond,Installment,Literature,Arts Club,42946.44,1213,77.52,2025-12-24,2009-09-17
+Kathy Andersen,Non-binary,Grade 11,C-Sapphire,Scholarship,History,None,20256.01,4367,79.72,2025-12-07,2007-05-31
+Katelyn Miller,Non-binary,Grade 11,D-Ruby,Scholarship,Computer Science,Varsity,38876.38,2781,81.69,2026-05-02,2010-12-02
+Lindsey Ferguson,Male,Grade 6,D-Ruby,Installment,Mathematics,Arts Club,43952.01,1913,89.11,2025-10-11,2015-02-25
+Brandon Crosby,Female,Grade 11,D-Ruby,Scholarship,Computer Science,Student Council,28031.77,3157,86.29,2025-06-28,2016-04-15
+Heather Mann,Male,Grade 9,D-Ruby,Full Payment,Computer Science,Glee Club,27071.96,4814,98.58,2025-06-24,2017-12-13
+William Anderson,Non-binary,Grade 6,B-Emerald,Scholarship,Science,None,28911.0,3871,91.91,2025-06-01,2014-05-27
+Tiffany Waters,Female,Grade 6,A-Diamond,Scholarship,History,None,42606.14,3002,82.91,2026-01-20,2009-10-22
+Bridget Craig,Female,Grade 9,D-Ruby,Scholarship,Computer Science,Glee Club,21244.87,4844,79.32,2025-09-22,2017-10-15
+April Morris,Non-binary,Grade 7,C-Sapphire,Late Payment,Computer Science,Glee Club,18119.85,1879,75.56,2026-03-18,2020-01-16
+Troy Pope,Female,Grade 11,D-Ruby,Full Payment,Computer Science,Student Council,44155.11,3230,78.78,2025-12-08,2018-08-10
+Jimmy Flores,Non-binary,Grade 1,D-Ruby,Scholarship,Computer Science,None,39161.22,1991,77.46,2025-06-15,2012-01-16
+Luis Roberts,Male,Grade 1,C-Sapphire,Installment,Computer Science,Arts Club,24485.26,4091,86.85,2025-08-14,2014-12-22
+Belinda Bartlett,Female,Grade 7,D-Ruby,Full Payment,History,None,33708.75,4115,98.92,2026-03-25,2020-05-05
+Douglas Roberts,Female,Grade 6,D-Ruby,Full Payment,Computer Science,None,29861.14,3827,89.28,2025-06-22,2011-05-20
+Sophia Jones,Female,Grade 3,D-Ruby,Installment,Computer Science,Glee Club,35611.83,4192,78.41,2025-06-20,2020-04-03
+Jason Knox,Female,Grade 6,B-Emerald,Full Payment,Literature,Student Council,33191.2,969,95.09,2025-11-25,2016-01-13
+Janet Herman,Male,Grade 12,A-Diamond,Installment,Literature,Student Council,24533.78,2881,79.11,2026-03-25,2008-12-29
+Randy Torres,Female,Grade 1,A-Diamond,Installment,Mathematics,Student Council,38109.98,3441,85.77,2026-04-16,2016-04-09
+Evelyn Rogers,Male,Grade 7,D-Ruby,Late Payment,Literature,Arts Club,16465.73,2395,91.76,2025-09-20,2018-08-24
+Gina Pittman,Male,Grade 6,A-Diamond,Scholarship,Science,Arts Club,35853.32,737,75.41,2025-05-17,2015-08-13
+Ryan Howell,Female,Grade 12,B-Emerald,Scholarship,History,Varsity,24100.59,2881,76.16,2026-02-17,2017-10-05
+Jasmine Bernard,Non-binary,Grade 1,A-Diamond,Scholarship,Mathematics,None,30193.67,1785,83.57,2025-10-27,2018-11-07
+Patrick Powers,Male,Grade 9,B-Emerald,Installment,Science,Glee Club,25393.14,3268,87.83,2026-04-02,2019-01-14
+Victoria Wells,Male,Grade 3,D-Ruby,Scholarship,History,Glee Club,44526.76,4623,75.56,2025-07-13,2016-01-13
+Ryan Valencia,Female,Grade 3,D-Ruby,Full Payment,Mathematics,None,40026.96,3263,97.36,2025-06-27,2014-02-08
+David Mcdaniel,Male,Grade 7,B-Emerald,Installment,Computer Science,Arts Club,28911.03,4463,85.82,2025-12-03,2018-10-26
+Jennifer Lane,Male,Grade 11,C-Sapphire,Full Payment,Science,Glee Club,24450.88,1225,92.64,2025-12-06,2015-03-12
+Karen Hayes,Non-binary,Grade 7,B-Emerald,Scholarship,Mathematics,Glee Club,25345.86,1297,85.12,2025-05-07,2011-04-06
+Carl Blake,Non-binary,Grade 9,C-Sapphire,Full Payment,Mathematics,Varsity,20459.31,1753,92.9,2026-02-03,2012-01-03
+Glenn Hunt,Male,Grade 12,A-Diamond,Full Payment,Mathematics,Arts Club,28918.28,4199,82.06,2025-10-10,2012-05-11
+Tonya Alvarez,Non-binary,Grade 6,C-Sapphire,Scholarship,History,Arts Club,22396.82,1364,86.84,2025-06-30,2011-12-11
+Darlene Perez,Male,Grade 3,B-Emerald,Installment,History,Student Council,34013.42,3945,90.56,2025-11-17,2013-09-13
+John Wilson,Female,Grade 7,C-Sapphire,Installment,Science,Student Council,19179.95,2865,78.32,2025-06-27,2009-12-18
+Garrett Holmes,Non-binary,Grade 9,B-Emerald,Installment,Science,Glee Club,29583.66,1347,86.18,2026-01-27,2012-12-27
+Nicole Baker,Male,Grade 3,C-Sapphire,Full Payment,Computer Science,Student Council,22541.77,2719,77.27,2025-11-02,2009-08-27
+Cory Lindsey,Male,Grade 6,B-Emerald,Installment,Computer Science,None,29651.89,4077,95.28,2025-10-11,2013-04-14
+Alan Wright,Male,Grade 11,A-Diamond,Scholarship,History,None,43732.57,3386,92.99,2026-01-28,2015-02-25
+Mrs. Brittany Barton MD,Male,Grade 7,D-Ruby,Late Payment,Literature,None,27931.39,1781,80.0,2026-03-13,2011-07-13
+Albert Bryant,Non-binary,Grade 7,C-Sapphire,Scholarship,Mathematics,Arts Club,20216.91,1423,84.85,2025-12-25,2010-04-23
+Jennifer Mendoza,Female,Grade 9,A-Diamond,Scholarship,History,Student Council,44839.81,2737,97.33,2025-09-17,2014-06-20
+Donald Jones,Female,Grade 1,A-Diamond,Late Payment,Computer Science,Arts Club,26967.63,4056,79.22,2025-09-22,2018-09-13
+Michelle Mccarthy,Male,Grade 7,C-Sapphire,Late Payment,Literature,Varsity,32842.79,3206,83.82,2026-03-16,2011-09-04
+Heather Hartman,Female,Grade 9,D-Ruby,Scholarship,History,Arts Club,43455.45,2650,90.31,2026-03-21,2011-10-27
+Leonard Jenkins,Female,Grade 11,B-Emerald,Scholarship,Science,Student Council,26001.88,2654,94.6,2025-11-26,2020-01-03
+Kristin Sanchez,Male,Grade 6,B-Emerald,Full Payment,Science,None,16248.91,628,98.1,2025-11-03,2018-11-21
+Jason Cox,Non-binary,Grade 11,A-Diamond,Installment,History,Varsity,41590.75,1756,82.49,2026-02-28,2010-08-29
+Patrick Young,Male,Grade 1,A-Diamond,Late Payment,Science,Arts Club,18997.91,3471,82.71,2026-03-15,2018-01-06
+Katherine Powell,Female,Grade 7,B-Emerald,Full Payment,Mathematics,Student Council,34639.89,1251,97.54,2025-11-13,2017-02-19
+Denise Cook,Male,Grade 11,C-Sapphire,Late Payment,Literature,Student Council,23913.84,2805,84.5,2025-09-02,2007-08-04
+Laura Murray,Male,Grade 1,C-Sapphire,Full Payment,Computer Science,Varsity,38492.48,932,89.32,2026-03-25,2013-10-10
+Christopher May,Non-binary,Grade 1,A-Diamond,Installment,Science,None,35587.98,1724,90.38,2025-08-05,2013-03-13
+Daniel Young,Male,Grade 12,D-Ruby,Scholarship,History,Glee Club,23402.47,1168,80.93,2026-04-04,2010-12-04
+Jessica Brown,Male,Grade 6,B-Emerald,Installment,Mathematics,None,25235.63,1508,88.48,2025-09-12,2012-07-18
+Ian Ross,Non-binary,Grade 11,A-Diamond,Scholarship,History,Student Council,44485.64,960,93.64,2026-02-13,2015-10-30
+Michelle Williams,Female,Grade 11,D-Ruby,Late Payment,History,None,30768.31,520,75.83,2025-12-19,2020-04-03
+Dr. Andrew Hawkins,Male,Grade 9,A-Diamond,Late Payment,Science,None,27302.13,3248,78.92,2025-07-22,2018-03-01
+Anthony Brown,Non-binary,Grade 3,B-Emerald,Late Payment,History,Student Council,41263.1,3700,89.82,2026-03-29,2008-11-17
+Alexander Sims,Non-binary,Grade 7,A-Diamond,Scholarship,Computer Science,Student Council,40302.06,4150,75.39,2025-09-12,2020-04-25
+Donald Goodman,Female,Grade 12,B-Emerald,Full Payment,Science,None,24416.88,2541,95.05,2025-11-26,2018-10-18
+Dr. Frank Young,Female,Grade 11,B-Emerald,Full Payment,Literature,Arts Club,20684.57,4529,92.72,2025-10-10,2016-05-15
+Daniel Melendez MD,Non-binary,Grade 6,D-Ruby,Full Payment,History,Varsity,34754.76,501,88.43,2025-10-23,2016-04-09
+Antonio Fisher,Non-binary,Grade 3,C-Sapphire,Late Payment,History,Student Council,20702.91,2849,94.5,2025-12-31,2018-06-24
+Roy Rocha,Non-binary,Grade 1,D-Ruby,Scholarship,History,Varsity,38030.19,1512,80.79,2025-07-16,2015-10-05
+Brett Perry,Male,Grade 11,D-Ruby,Installment,Literature,Varsity,33122.31,2306,76.0,2025-08-08,2014-04-15
+Lynn Wright,Non-binary,Grade 3,B-Emerald,Installment,Science,Varsity,18373.97,3929,86.06,2026-02-12,2013-09-14
+Diana Ochoa,Female,Grade 9,C-Sapphire,Scholarship,Computer Science,None,28781.13,3445,80.77,2025-10-07,2020-04-29
+Michael Leon,Male,Grade 1,A-Diamond,Scholarship,Science,Glee Club,18365.96,1577,94.08,2025-09-18,2015-01-09
+Marie Pierce,Non-binary,Grade 7,B-Emerald,Full Payment,Literature,Varsity,40820.37,788,78.52,2025-09-22,2009-05-09
+Mrs. Danielle Bell,Female,Grade 6,B-Emerald,Scholarship,Literature,Arts Club,34171.22,2526,89.66,2025-11-07,2017-11-22
+Jordan Hatfield,Female,Grade 9,B-Emerald,Scholarship,History,Student Council,17663.72,1858,85.87,2026-04-16,2015-11-30
+Stephanie Baker,Male,Grade 6,A-Diamond,Installment,Literature,Glee Club,19274.97,3063,78.28,2025-11-08,2017-07-02
+Victor Leach,Male,Grade 6,C-Sapphire,Installment,History,Glee Club,21290.22,2902,90.31,2026-02-07,2007-09-01
+David Phillips,Non-binary,Grade 6,B-Emerald,Full Payment,History,None,43545.1,897,78.87,2025-07-16,2020-03-23
+Kevin Mcgee,Male,Grade 1,D-Ruby,Late Payment,Science,Glee Club,44046.49,593,91.75,2025-10-01,2010-06-27
+Janet Goodwin,Female,Grade 9,A-Diamond,Late Payment,Computer Science,Arts Club,23902.53,707,79.07,2025-11-11,2012-09-16
+Laura Wilson,Female,Grade 12,A-Diamond,Scholarship,Mathematics,Arts Club,31576.03,3788,75.03,2025-07-18,2013-02-27
+Miss April Bartlett,Female,Grade 6,A-Diamond,Full Payment,Science,Varsity,38698.78,1031,81.46,2026-03-08,2014-07-09
+Dorothy Lowery,Female,Grade 9,A-Diamond,Full Payment,History,Glee Club,36589.04,1798,98.36,2025-10-29,2018-12-15
+Zachary Mayo,Female,Grade 6,C-Sapphire,Installment,History,Varsity,17782.54,3434,87.5,2025-06-14,2012-07-21
+Ashley Johnson,Male,Grade 6,D-Ruby,Full Payment,Literature,Arts Club,17899.05,1105,94.4,2025-09-23,2017-08-20
+Christopher Hall,Non-binary,Grade 12,C-Sapphire,Scholarship,Science,Student Council,24171.53,3629,83.05,2025-10-21,2011-10-23
+Jenny Pugh,Non-binary,Grade 7,C-Sapphire,Full Payment,Literature,Glee Club,43888.36,3246,85.5,2025-11-09,2015-08-19
+Lori Lewis,Female,Grade 9,A-Diamond,Full Payment,Literature,Student Council,25258.4,2585,95.65,2026-01-17,2012-11-25
+Sean Stephens,Female,Grade 9,A-Diamond,Installment,History,Glee Club,29313.05,3796,97.15,2025-11-17,2020-02-09
+Holly Delgado,Male,Grade 7,D-Ruby,Scholarship,Computer Science,Student Council,22975.7,4772,77.07,2025-08-09,2010-10-23
+Amber Mitchell,Male,Grade 7,C-Sapphire,Installment,Mathematics,Student Council,43316.08,4202,78.11,2025-10-09,2010-10-05
+Sara Taylor,Non-binary,Grade 9,D-Ruby,Scholarship,Literature,Varsity,43482.23,1932,88.39,2025-10-25,2007-09-28
+Phillip Mccullough,Male,Grade 1,C-Sapphire,Full Payment,Computer Science,Arts Club,28188.86,2508,75.08,2026-01-17,2012-01-06
+Thomas Herrera,Non-binary,Grade 1,D-Ruby,Late Payment,Mathematics,Varsity,31677.11,661,75.69,2025-06-18,2008-03-28
+Jackson Davis,Male,Grade 1,D-Ruby,Full Payment,Computer Science,Glee Club,24770.22,1016,92.69,2026-01-02,2012-07-04
+Joan Ward,Female,Grade 6,C-Sapphire,Late Payment,Literature,Varsity,28444.95,4348,90.86,2026-03-04,2015-07-19
+Kelly Briggs,Non-binary,Grade 3,A-Diamond,Full Payment,History,Glee Club,17963.34,3315,92.0,2025-09-10,2015-08-25
+Melissa Taylor,Female,Grade 3,A-Diamond,Installment,History,None,30635.16,613,80.95,2025-10-12,2007-08-19
+Samuel Jones,Female,Grade 3,D-Ruby,Installment,Science,Arts Club,15672.29,1042,85.4,2025-10-26,2015-08-07
+Chelsea Perkins,Non-binary,Grade 11,C-Sapphire,Scholarship,Mathematics,Glee Club,37470.67,2693,82.86,2025-08-20,2018-05-15
+Samuel Douglas,Male,Grade 1,B-Emerald,Full Payment,Mathematics,Arts Club,44449.75,1301,95.94,2026-05-02,2019-04-03
+Angela Peterson,Female,Grade 7,A-Diamond,Late Payment,History,None,42124.7,2191,97.88,2026-02-05,2017-01-07
+Phillip Marshall,Male,Grade 7,A-Diamond,Scholarship,History,Varsity,26831.71,2094,95.21,2026-03-02,2011-08-10
+Sean Madden,Non-binary,Grade 12,D-Ruby,Installment,Computer Science,Varsity,21795.74,4033,80.07,2025-07-14,2010-02-03
+Calvin Wagner,Non-binary,Grade 1,C-Sapphire,Installment,Mathematics,Arts Club,41199.45,1460,93.64,2026-04-17,2010-09-30
+Kimberly Chavez,Female,Grade 12,C-Sapphire,Installment,Mathematics,Arts Club,24023.91,4855,95.58,2026-03-21,2010-07-20
+Heather Brown,Male,Grade 1,D-Ruby,Scholarship,Science,Arts Club,29380.43,1086,83.14,2026-04-22,2011-03-20
+Walter Reeves,Male,Grade 1,A-Diamond,Installment,History,Glee Club,31834.33,1753,82.03,2026-02-25,2015-12-05
+Carol Foster,Female,Grade 11,C-Sapphire,Installment,Mathematics,Varsity,41725.42,1562,83.41,2025-06-10,2011-07-01
+Susan Petty,Male,Grade 7,D-Ruby,Late Payment,Science,Glee Club,24938.0,4466,90.53,2025-08-06,2009-07-27
+Lauren Smith,Female,Grade 11,A-Diamond,Late Payment,Computer Science,Arts Club,44361.23,1313,88.92,2025-11-26,2019-10-20
+Anna Clayton,Non-binary,Grade 1,A-Diamond,Late Payment,Computer Science,Varsity,31361.26,4399,88.08,2025-06-21,2016-12-29
+Joshua Mercado,Male,Grade 3,A-Diamond,Full Payment,Literature,None,26788.1,1990,95.81,2026-01-29,2016-09-21
+Anna Russell,Non-binary,Grade 6,C-Sapphire,Late Payment,Literature,Student Council,44019.95,4389,98.5,2026-01-06,2017-09-30
+Courtney Jones,Female,Grade 7,D-Ruby,Full Payment,Mathematics,None,20555.97,4615,88.71,2025-11-02,2019-05-29
+Fernando Bass,Female,Grade 11,A-Diamond,Full Payment,Science,Student Council,43307.02,2206,79.18,2025-07-06,2016-01-10
+Jacob Robinson,Male,Grade 7,A-Diamond,Full Payment,Literature,Student Council,35126.2,2676,80.21,2025-07-04,2007-09-04
+Taylor Randall,Non-binary,Grade 11,B-Emerald,Scholarship,Science,Arts Club,44059.57,2673,90.18,2025-12-06,2007-06-04
+Eric Fields,Non-binary,Grade 6,A-Diamond,Late Payment,Mathematics,None,29372.09,871,90.76,2025-09-15,2010-08-18
+Keith Gonzalez,Female,Grade 11,B-Emerald,Late Payment,Mathematics,Glee Club,24634.21,2127,95.5,2026-02-26,2012-01-08
+John Short,Non-binary,Grade 6,C-Sapphire,Full Payment,Computer Science,Student Council,37493.47,3823,82.29,2026-02-21,2017-05-18
+Kathryn Ford,Female,Grade 7,D-Ruby,Installment,Science,Student Council,30766.21,3927,98.27,2026-01-03,2015-04-01
+Ashley Smith MD,Non-binary,Grade 3,D-Ruby,Late Payment,Science,Varsity,43576.83,4605,75.69,2025-11-04,2011-04-13
+Kayla Hall,Non-binary,Grade 6,A-Diamond,Scholarship,Mathematics,Glee Club,33501.26,1109,97.0,2026-01-08,2019-05-16
+Michael Boyle,Female,Grade 1,B-Emerald,Scholarship,History,None,25876.24,4663,84.98,2025-09-07,2019-11-09
+Natasha Perry,Male,Grade 7,D-Ruby,Late Payment,Computer Science,Arts Club,35715.17,1621,96.63,2025-10-07,2018-09-12
+Richard Wilson,Male,Grade 12,A-Diamond,Scholarship,History,Arts Club,32959.78,4883,88.44,2026-03-17,2008-02-16
+Madison Gay,Non-binary,Grade 3,B-Emerald,Full Payment,Computer Science,Varsity,34723.39,1971,78.45,2025-10-27,2007-10-10
+Erika Dougherty,Male,Grade 12,D-Ruby,Installment,Mathematics,Student Council,43545.96,3729,83.5,2025-05-16,2010-02-05
+Anthony Lewis,Male,Grade 3,C-Sapphire,Scholarship,Computer Science,Student Council,29926.23,3099,93.49,2025-07-24,2013-04-01
+Natalie Johnson,Male,Grade 6,A-Diamond,Installment,Literature,None,31711.23,3324,80.16,2025-07-08,2014-04-18
+William Ayala,Male,Grade 3,A-Diamond,Scholarship,Computer Science,Glee Club,22777.48,1122,82.04,2026-05-04,2007-10-02
+Luke Wright,Non-binary,Grade 11,D-Ruby,Installment,Science,None,38440.13,606,93.25,2026-02-03,2012-08-23
+Sarah Parks,Female,Grade 12,C-Sapphire,Full Payment,Mathematics,Glee Club,32688.14,4853,77.93,2025-12-04,2011-06-03
+Mary Guerrero,Female,Grade 3,C-Sapphire,Scholarship,Literature,None,42579.98,1876,75.33,2025-09-15,2012-11-22
+Erika Miller,Male,Grade 3,B-Emerald,Scholarship,Mathematics,Student Council,17651.45,2679,85.3,2026-03-15,2015-11-28
+Alicia Robinson,Male,Grade 1,D-Ruby,Full Payment,Science,None,42059.39,3876,81.46,2026-01-19,2013-12-10
+James Woodard,Male,Grade 6,A-Diamond,Late Payment,Science,Glee Club,42824.91,2918,82.13,2025-10-03,2020-04-09
+Robert Oconnell,Female,Grade 3,A-Diamond,Installment,Literature,Varsity,40872.84,3530,81.96,2026-02-23,2010-06-05
+Richard Henderson,Female,Grade 12,A-Diamond,Scholarship,Literature,Arts Club,44503.43,4452,83.21,2026-04-20,2010-02-04
+Kristina Phillips,Male,Grade 9,D-Ruby,Late Payment,Science,Arts Club,18959.17,2770,96.84,2026-03-04,2007-05-17
+Kelly Cooper,Non-binary,Grade 9,A-Diamond,Installment,History,Glee Club,16212.95,4523,89.75,2025-05-15,2012-02-15
+Timothy Lynch,Non-binary,Grade 9,A-Diamond,Installment,Mathematics,Student Council,20733.89,841,95.06,2026-05-06,2018-11-26
+Joshua Fernandez,Male,Grade 3,C-Sapphire,Full Payment,Science,Arts Club,31610.43,1837,91.33,2026-03-10,2019-02-03
+Nicole Murray,Non-binary,Grade 9,B-Emerald,Installment,Literature,Varsity,27180.09,4009,99.0,2025-10-15,2010-12-07
+Larry Mcdaniel,Female,Grade 6,B-Emerald,Full Payment,History,Varsity,42881.37,2431,98.01,2026-02-22,2012-01-19
+Daniel Smith,Female,Grade 11,C-Sapphire,Late Payment,Literature,Student Council,42063.58,1385,89.39,2025-06-29,2013-10-18
+Krystal Jones,Female,Grade 12,C-Sapphire,Installment,Science,Glee Club,15931.26,1583,92.68,2026-02-03,2010-12-20
+Michael Garner,Female,Grade 9,A-Diamond,Full Payment,Literature,Student Council,41472.01,3980,81.84,2025-08-16,2019-07-31
+Stephen Riggs,Non-binary,Grade 9,B-Emerald,Scholarship,History,Varsity,36427.17,4672,77.4,2025-11-20,2010-04-11
+Paul Simon,Male,Grade 1,B-Emerald,Late Payment,History,Arts Club,31665.82,4980,87.39,2026-03-18,2015-12-09
+James Smith,Male,Grade 12,B-Emerald,Late Payment,Computer Science,Student Council,42335.37,706,75.61,2025-07-11,2017-03-15
+Jeffrey Johnson,Female,Grade 7,B-Emerald,Late Payment,Mathematics,Student Council,16794.7,3089,78.39,2025-08-17,2013-10-10
+Jasmine Carlson,Female,Grade 11,A-Diamond,Late Payment,Science,None,18030.89,1762,85.76,2025-09-29,2013-01-17
+Andrea Crane,Non-binary,Grade 11,C-Sapphire,Installment,Literature,Arts Club,19554.49,1510,92.46,2025-11-20,2009-12-20
